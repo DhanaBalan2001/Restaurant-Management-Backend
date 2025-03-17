@@ -27,7 +27,7 @@ const __dirname = path.dirname(__filename);
 const app = express();
 config({ path: path.join(__dirname, '.env') });
 app.use(cors({
-  origin: ['http://localhost:5174','http://localhost:5173'],
+  origin: ['https://voluble-cendol-68fbbc.netlify.app','http://localhost:5174','http://localhost:5173'],
   credentials: true
 }));
 app.use(express.json());
@@ -35,7 +35,7 @@ app.use(express.json());
 const server = createServer(app);
 const io = new Server(server, {
   cors: {
-    origin: ['http://localhost:5174','http://localhost:5173'],
+    origin: ['https://voluble-cendol-68fbbc.netlify.app','http://localhost:5174','http://localhost:5173'],
     methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
    allowedHeaders: ['Content-Type', 'Authorization'],
     credentials: true
@@ -71,6 +71,10 @@ mongoose.connection.on("disconnected", () => {
 mongoose.connection.on("connected", () => {
   console.log("MongoDB connected!");
 });
+
+app.get('*', (req, res) => {
+    res.sendFile(path.join(__dirname, '../client/build/index.html'));
+})
 
 const PORT = process.env.PORT || 5000;
 server.listen(PORT, () => {
