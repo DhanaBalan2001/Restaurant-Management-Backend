@@ -29,26 +29,19 @@ import feedbackRoutes from './routes/feedback.js';
 
 dotenv.config();
 const app = express();
+const server = http.createServer(app);
+const PORT = process.env.PORT || 5000;
 
 // Initialize Socket.io
 initSocket(server);
 
 // Middleware
 app.use(cors({
-  origin: ['https://voluble-cendol-68fbbc.netlify.app'],
+  origin: process.env.CLIENT_URL || 'http://localhost:5173',
   credentials: true
 }));
 app.use(express.json());
-
-const server = createServer(app);
-const io = new Server(server, {
-  cors: {
-    origin: ['https://voluble-cendol-68fbbc.netlify.app'],
-    methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
-   allowedHeaders: ['Content-Type', 'Authorization'],
-    credentials: true
-  }
-});
+app.use(httpLogger);
 
 // Routes
 app.use('/api/auth', authRoutes);
@@ -85,19 +78,4 @@ mongoose.connect(process.env.MONGODB)
     process.exit(1);
   });
 
-mongoose.connection.on("disconnected", () => {
-  console.log("MongoDB disconnected!");
-});
-
-mongoose.connection.on("connected", () => {
-  console.log("MongoDB connected!");
-});
-
-app.get('*', (req, res) => {
-    res.sendFile(path.join(__dirname, '../client/build/index.html'));
-})
-
-const PORT = process.env.PORT || 5000;
-server.listen(PORT, () => {
-  console.log(`Server running on port ${PORT}`);
-});
+export default app;
