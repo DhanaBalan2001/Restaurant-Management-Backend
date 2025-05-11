@@ -1,5 +1,6 @@
 import User from '../models/User.js';
 import Order from '../models/Order.js';
+import bcrypt from 'bcrypt';
 
 export const getAllUsers = async (req, res) => {
   try {
@@ -78,6 +79,82 @@ export const getAnalytics = async (req, res) => {
       revenue: revenue[0]?.total || 0,
       topCustomers
     });
+  } catch (error) {
+    res.status(500).json({ message: error.message });
+  }
+};
+
+export const createUser = async (req, res) => {
+  try {
+    const { username, password, role, email, phone, address } = req.body;
+    const salt = await bcrypt.genSalt(10);
+    const hashedPassword = await bcrypt.hash(password, 10);
+    
+    const user = await User.create({
+      username,
+      password: hashedPassword,
+      role: role || 'customer',
+      email,
+      phone,
+      address
+    });
+
+    res.status(201).json({
+      userId: user._id,
+      username: user.username,
+      email: user.email,
+      role: user.role
+    });
+  } catch (error) {
+    res.status(500).json({ message: error.message });
+  }
+};
+
+export const updateUser = async (req, res) => {
+  try {
+    const { id } = req.params;
+    const { username, password, role, email, phone, address } = req.body;
+    
+    const updateData = {
+      username,
+      role,
+      email,
+      phone,
+      address
+    };
+    
+    // Only update password if provided
+    if (password) {
+      updateData.password = await bcrypt.hash(password, salt);
+    }
+    
+    const user = await User.findByIdAndUpdate(
+      id,
+      updateData,
+      { new: true,runValidators: true }
+    ).select('-password');
+    
+    if (!user) {
+      return res.status(404).json({ message: "User not found" });
+    }
+    
+    res.json(user);
+  } catch (error) {
+    res.status(500).json({ message: error.message });
+  }
+};
+
+export const deleteUser = async (req, res) => {
+  try {
+    const { id } = req.params;
+    
+    const user = await User.findByIdAndDelete(id);
+    
+    if (!user) {
+      return res.status(404).json({ message: "User not found" });
+    }
+    
+    res.json({ message: "User deleted successfully" });
   } catch (error) {
     res.status(500).json({ message: error.message });
   }

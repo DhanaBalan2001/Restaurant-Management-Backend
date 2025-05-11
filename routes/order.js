@@ -12,7 +12,7 @@ const router = express.Router();
 
 router.post('/', verifyRole(['customer']), createOrder);
 router.get('/', verifyRole(['admin','staff']), getAllOrders);
-router.get('/user', verifyRole(['admin','staff']), getUserOrders);
+router.get('/user', verifyRole(['admin','staff','customer']), getUserOrders);
 router.get('/:id', verifyRole(['admin', 'staff','customer']), getOrderById);
 router.put('/:id/status', verifyRole(['admin', 'staff']), updateOrderStatus);
 

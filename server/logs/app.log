@@ -1,0 +1,1427 @@
+2025-03-19 19:40:14:4014 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:40:15:4015 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:40:15:4015 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:40:22:4022 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:40:23:4023 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:40:23:4023 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:41:12:4112 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:41:13:4113 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:41:13:4113 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:41:18:4118 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:41:19:4119 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:41:19:4119 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:44:27:4427 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:44:28:4428 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:44:28:4428 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:44:50:4450 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:44:51:4451 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:44:51:4451 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:45:19:4519 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:45:19:4519 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:45:19:4519 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:46:22:4622 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:46:23:4623 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:46:23:4623 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:46:49:4649 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:46:50:4650 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:46:50:4650 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:46:58:4658 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:46:58:4658 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:46:59:4659 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:47:06:476 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:47:07:477 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:47:07:477 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:47:28:4728 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:47:29:4729 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:47:29:4729 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:47:48:4748 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:47:48:4748 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:47:48:4748 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:47:50:4750 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:47:51:4751 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:47:51:4751 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:48:15:4815 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:48:15:4815 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:48:15:4815 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:48:31:4831 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:48:32:4832 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:48:32:4832 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:48:38:4838 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:48:39:4839 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:48:39:4839 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:49:22:4922 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:49:23:4923 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:49:23:4923 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:49:53:4953 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:49:54:4954 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:49:54:4954 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:49:59:4959 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:50:00:500 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:50:00:500 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:50:17:5017 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:50:18:5018 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:50:18:5018 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:50:19:5019 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:50:20:5020 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:50:20:5020 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:50:36:5036 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:50:37:5037 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:50:37:5037 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:50:41:5041 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:50:42:5042 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:50:42:5042 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:50:51:5051 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:50:52:5052 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:50:52:5052 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:51:00:510 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:51:01:511 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:51:01:511 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:51:06:516 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:51:07:517 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:51:07:517 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:51:34:5134 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:51:35:5135 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:51:35:5135 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:51:44:5144 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:51:44:5144 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:51:44:5144 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:52:03:523 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:52:05:525 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:52:05:525 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:53:34:5334 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:53:35:5335 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:53:35:5335 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:53:59:5359 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:53:59:5359 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:53:59:5359 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:54:11:5411 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:54:11:5411 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:54:11:5411 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:54:31:5431 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:54:32:5432 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:54:32:5432 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:54:33:5433 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:54:34:5434 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:54:34:5434 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:55:19:5519 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:55:20:5520 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:55:20:5520 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:55:25:5525 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:55:26:5526 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:55:26:5526 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:55:50:5550 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:55:51:5551 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:55:51:5551 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:55:54:5554 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:55:55:5555 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:55:55:5555 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:56:19:5619 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:56:20:5620 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:56:20:5620 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:56:28:5628 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:56:28:5628 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:56:28:5628 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:56:42:5642 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:56:43:5643 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:56:43:5643 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:56:47:5647 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:56:48:5648 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:56:48:5648 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:57:07:577 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:57:07:577 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:57:07:577 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:57:14:5714 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:57:15:5715 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:57:15:5715 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:57:51:5751 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:57:52:5752 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:57:52:5752 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:59:14:5914 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:59:15:5915 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:59:15:5915 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:59:24:5924 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:59:25:5925 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:59:25:5925 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 19:59:31:5931 [32minfo[39m: [32mServer running on port 5000[39m
+2025-03-19 19:59:31:5931 [32minfo[39m: [32mMongoDB connected![39m
+2025-03-19 19:59:31:5931 [32minfo[39m: [32mConnected to MongoDB![39m
+2025-03-19 20:13:00:130 [35mhttp[39m: [35mPOST /api/auth/login 200 - 179ms | IP: ::1[39m
+2025-03-19 20:13:31:1331 [35mhttp[39m: [35mPOST /api/auth/login 200 - 144ms | IP: ::1[39m
+2025-03-19 20:15:02:152 [35mhttp[39m: [35mGET /api/loyalty/status 200 - 185ms | IP: ::1[39m
+2025-03-19 20:21:19:2119 [31merror[39m: [31mFeedback creation error: Cast to ObjectId failed for value "order_id_here" (type string) at path "_id" for model "Order"[39m
+2025-03-19 20:21:19:2119 [35mhttp[39m: [35mPOST /api/feedback 500 - 5ms | IP: ::1[39m
+2025-03-19 20:21:57:2157 [35mhttp[39m: [35mPOST /api/feedback 404 - 114ms | IP: ::1[39m
+2025-03-19 20:26:24:2624 [32minfo[39m: [32mNew order created: 67dadb177649e02f9c01c226 by user 6798dfcdeb98e2e2b589834f[39m
+2025-03-19 20:26:24:2624 [35mhttp[39m: [35mPOST /api/orders 201 - 411ms | IP: ::1[39m
+2025-03-19 20:27:36:2736 [35mhttp[39m: [35mGET /api/orders/67dadb177649e02f9c01c226 401 - 1ms | IP: ::1[39m
+2025-03-19 20:27:50:2750 [35mhttp[39m: [35mGET /api/orders/67dadb177649e02f9c01c226 500 - 238ms | IP: ::1[39m
+2025-03-19 20:30:23:3023 [35mhttp[39m: [35mGET /api/orders/67dadb177649e02f9c01c226 200 - 188ms | IP: ::1[39m
+2025-03-19 20:32:01:321 [35mhttp[39m: [35mPUT /api/orders/67dadb177649e02f9c01c226/status 403 - 1ms | IP: ::1[39m
+2025-03-19 20:32:19:3219 [35mhttp[39m: [35mPOST /api/auth/login 200 - 161ms | IP: ::1[39m
+2025-03-19 20:32:30:3230 [35mhttp[39m: [35mPUT /api/orders/67dadb177649e02f9c01c226/status 200 - 239ms | IP: ::1[39m
+2025-03-19 22:41:50:4150 [35mhttp[39m: [35mPOST /api/feedback 404 - 609ms | IP: ::1[39m
+2025-03-19 22:42:31:4231 [35mhttp[39m: [35mPUT /api/orders/67dadb177649e02f9c01c226/status 200 - 208ms | IP: ::1[39m
+2025-03-19 22:42:42:4242 [32minfo[39m: [32mNew feedback submitted for order 67dadb177649e02f9c01c226[39m
+2025-03-19 22:42:42:4242 [35mhttp[39m: [35mPOST /api/feedback 201 - 214ms | IP: ::1[39m
+2025-03-19 22:44:37:4437 [35mhttp[39m: [35mPOST /api/delivery 403 - 3ms | IP: ::1[39m
+2025-03-19 22:44:59:4459 [35mhttp[39m: [35mPOST /api/auth/login 200 - 145ms | IP: ::1[39m
+2025-03-19 22:45:20:4520 [35mhttp[39m: [35mPOST /api/delivery 404 - 3299ms | IP: ::1[39m
+2025-03-19 22:45:37:4537 [35mhttp[39m: [35mPUT /api/orders/67dadb177649e02f9c01c226/status 200 - 184ms | IP: ::1[39m
+2025-03-19 22:45:43:4543 [31merror[39m: [31mDelivery creation error: Order validation failed: status: `in-delivery` is not a valid enum value for path `status`.[39m
+2025-03-19 22:45:43:4543 [35mhttp[39m: [35mPOST /api/delivery 500 - 277ms | IP: ::1[39m
+2025-03-19 22:49:29:4929 [35mhttp[39m: [35mPOST /api/delivery 400 - 163ms | IP: ::1[39m
+2025-03-19 23:12:57:1257 [32minfo[39m: [32mNew order created: 67db0221884a8e454f96e41d by user 6798dfcdeb98e2e2b589834f[39m
+2025-03-19 23:12:57:1257 [35mhttp[39m: [35mPOST /api/orders 201 - 387ms | IP: ::1[39m
+2025-03-19 23:13:46:1346 [32minfo[39m: [32mNew order created: 67db0251884a8e454f96e427 by user 6798dfcdeb98e2e2b589834f[39m
+2025-03-19 23:13:46:1346 [35mhttp[39m: [35mPOST /api/orders 201 - 250ms | IP: ::1[39m
+2025-03-19 23:14:33:1433 [35mhttp[39m: [35mPUT /api/orders/67dadb177649e02f9c01c226/status 200 - 202ms | IP: ::1[39m
+2025-03-20 00:05:50:550 [35mhttp[39m: [35mGET /api/menu 200 - 692ms | IP: ::1[39m
+2025-03-20 00:07:20:720 [35mhttp[39m: [35mGET /api/menu 304 - 80ms | IP: ::1[39m
+2025-03-20 00:07:21:721 [35mhttp[39m: [35mGET /api/menu 304 - 206ms | IP: ::1[39m
+2025-03-20 00:07:37:737 [35mhttp[39m: [35mGET /api/menu 304 - 68ms | IP: ::1[39m
+2025-03-20 00:07:37:737 [35mhttp[39m: [35mGET /api/menu 304 - 60ms | IP: ::1[39m
+2025-03-20 00:07:40:740 [35mhttp[39m: [35mGET /api/menu 304 - 64ms | IP: ::1[39m
+2025-03-20 00:07:41:741 [35mhttp[39m: [35mGET /api/menu 304 - 98ms | IP: ::1[39m
+2025-03-20 00:13:32:1332 [35mhttp[39m: [35mGET /api/menu 304 - 66ms | IP: ::1[39m
+2025-03-20 00:13:32:1332 [35mhttp[39m: [35mGET /api/menu 304 - 54ms | IP: ::1[39m
+2025-03-20 00:21:42:2142 [35mhttp[39m: [35mGET /api/menu 304 - 70ms | IP: ::1[39m
+2025-03-20 00:21:43:2143 [35mhttp[39m: [35mGET /api/menu 304 - 58ms | IP: ::1[39m
+2025-03-20 00:23:02:232 [35mhttp[39m: [35mGET /api/menu 304 - 71ms | IP: ::1[39m
+2025-03-20 00:23:02:232 [35mhttp[39m: [35mGET /api/menu 304 - 56ms | IP: ::1[39m
+2025-03-20 00:29:01:291 [35mhttp[39m: [35mGET /api/menu 304 - 1685ms | IP: ::1[39m
+2025-03-20 00:29:02:292 [35mhttp[39m: [35mGET /api/menu 304 - 321ms | IP: ::1[39m
+2025-03-20 00:29:57:2957 [35mhttp[39m: [35mGET /api/menu 304 - 62ms | IP: ::1[39m
+2025-03-20 00:29:57:2957 [35mhttp[39m: [35mGET /api/menu 304 - 61ms | IP: ::1[39m
+2025-03-20 00:38:22:3822 [35mhttp[39m: [35mGET /api/menu 304 - 62ms | IP: ::1[39m
+2025-03-20 00:38:22:3822 [35mhttp[39m: [35mGET /api/menu 304 - 64ms | IP: ::1[39m
+2025-03-20 10:36:26:3626 [35mhttp[39m: [35mPOST /api/auth/register 201 - 1200ms | IP: ::1[39m
+2025-03-20 10:36:26:3626 [35mhttp[39m: [35mGET /api/menu 304 - 104ms | IP: ::1[39m
+2025-03-20 10:36:26:3626 [35mhttp[39m: [35mGET /api/menu 304 - 82ms | IP: ::1[39m
+2025-03-20 10:37:14:3714 [35mhttp[39m: [35mGET /api/orders/user 403 - 8ms | IP: ::1[39m
+2025-03-20 10:37:14:3714 [35mhttp[39m: [35mGET /api/orders/user 403 - 3ms | IP: ::1[39m
+2025-03-20 10:37:19:3719 [35mhttp[39m: [35mGET /api/menu 304 - 71ms | IP: ::1[39m
+2025-03-20 10:37:19:3719 [35mhttp[39m: [35mGET /api/menu 304 - 59ms | IP: ::1[39m
+2025-03-20 10:38:32:3832 [32minfo[39m: [32mNew order created: 67dba2ce4ecb2e77e84c1d29 by user 67dba2514ecb2e77e84c1d22[39m
+2025-03-20 10:38:32:3832 [35mhttp[39m: [35mPOST /api/orders 201 - 1670ms | IP: ::1[39m
+2025-03-20 10:38:46:3846 [35mhttp[39m: [35mGET /api/orders/user 403 - 2ms | IP: ::1[39m
+2025-03-20 10:38:46:3846 [35mhttp[39m: [35mGET /api/orders/user 403 - 2ms | IP: ::1[39m
+2025-03-20 10:45:14:4514 [35mhttp[39m: [35mGET /api/orders/user 200 - 281ms | IP: ::1[39m
+2025-03-20 10:45:14:4514 [35mhttp[39m: [35mGET /api/orders/user 304 - 269ms | IP: ::1[39m
+2025-03-20 10:49:09:499 [35mhttp[39m: [35mGET /api/orders/user 304 - 101ms | IP: ::1[39m
+2025-03-20 10:49:09:499 [35mhttp[39m: [35mGET /api/orders/user 304 - 192ms | IP: ::1[39m
+2025-03-20 10:49:14:4914 [35mhttp[39m: [35mGET /api/menu 304 - 107ms | IP: ::1[39m
+2025-03-20 10:49:14:4914 [35mhttp[39m: [35mGET /api/menu 304 - 84ms | IP: ::1[39m
+2025-03-20 10:50:02:502 [32minfo[39m: [32mNew order created: 67dba582555b93d1f8ce69ea by user 67dba2514ecb2e77e84c1d22[39m
+2025-03-20 10:50:02:502 [35mhttp[39m: [35mPOST /api/orders 201 - 326ms | IP: ::1[39m
+2025-03-20 10:50:09:509 [35mhttp[39m: [35mGET /api/orders/user 304 - 77ms | IP: ::1[39m
+2025-03-20 10:50:09:509 [35mhttp[39m: [35mGET /api/orders/user 304 - 74ms | IP: ::1[39m
+2025-03-20 10:50:11:5011 [35mhttp[39m: [35mGET /api/orders/user 304 - 81ms | IP: ::1[39m
+2025-03-20 10:50:11:5011 [35mhttp[39m: [35mGET /api/orders/user 304 - 60ms | IP: ::1[39m
+2025-03-20 10:58:09:589 [35mhttp[39m: [35mGET /api/orders/user 200 - 176ms | IP: ::1[39m
+2025-03-20 10:58:09:589 [35mhttp[39m: [35mGET /api/orders/user 304 - 214ms | IP: ::1[39m
+2025-03-20 10:58:23:5823 [35mhttp[39m: [35mGET /api/menu 304 - 294ms | IP: ::1[39m
+2025-03-20 10:58:23:5823 [35mhttp[39m: [35mGET /api/menu 304 - 64ms | IP: ::1[39m
+2025-03-20 10:58:27:5827 [35mhttp[39m: [35mGET /api/orders/user 304 - 149ms | IP: ::1[39m
+2025-03-20 10:58:27:5827 [35mhttp[39m: [35mGET /api/orders/user 304 - 136ms | IP: ::1[39m
+2025-03-20 10:58:32:5832 [35mhttp[39m: [35mGET /api/menu 304 - 101ms | IP: ::1[39m
+2025-03-20 10:58:32:5832 [35mhttp[39m: [35mGET /api/menu 304 - 64ms | IP: ::1[39m
+2025-03-20 11:21:20:2120 [35mhttp[39m: [35mGET /api/menu 304 - 299ms | IP: ::1[39m
+2025-03-20 11:21:20:2120 [35mhttp[39m: [35mGET /api/menu 304 - 62ms | IP: ::1[39m
+2025-03-20 11:21:42:2142 [35mhttp[39m: [35mGET /api/customer/reservations 200 - 86ms | IP: ::1[39m
+2025-03-20 11:21:42:2142 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 118ms | IP: ::1[39m
+2025-03-20 11:22:08:228 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-03-20&guestCount=2 200 - 131ms | IP: ::1[39m
+2025-03-20 11:22:08:228 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-03-20&guestCount=2 304 - 404ms | IP: ::1[39m
+2025-03-20 11:22:50:2250 [35mhttp[39m: [35mPOST /api/reservations/create 201 - 180ms | IP: ::1[39m
+2025-03-20 11:22:58:2258 [35mhttp[39m: [35mGET /api/menu 304 - 74ms | IP: ::1[39m
+2025-03-20 11:22:58:2258 [35mhttp[39m: [35mGET /api/menu 304 - 64ms | IP: ::1[39m
+2025-03-20 11:23:00:230 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 63ms | IP: ::1[39m
+2025-03-20 11:23:00:230 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 58ms | IP: ::1[39m
+2025-03-20 11:23:03:233 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 73ms | IP: ::1[39m
+2025-03-20 11:23:03:233 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 59ms | IP: ::1[39m
+2025-03-20 11:40:26:4026 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 2965ms | IP: ::1[39m
+2025-03-20 11:40:26:4026 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 162ms | IP: ::1[39m
+2025-03-20 11:40:30:4030 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 68ms | IP: ::1[39m
+2025-03-20 11:40:30:4030 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 66ms | IP: ::1[39m
+2025-03-20 11:50:46:5046 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 435ms | IP: ::1[39m
+2025-03-20 11:50:47:5047 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 254ms | IP: ::1[39m
+2025-03-20 11:54:34:5434 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 993ms | IP: ::1[39m
+2025-03-20 11:54:35:5435 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 1124ms | IP: ::1[39m
+2025-03-20 11:54:48:5448 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 1311ms | IP: ::1[39m
+2025-03-20 11:54:49:5449 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 1130ms | IP: ::1[39m
+2025-03-20 11:56:12:5612 [35mhttp[39m: [35mPOST /api/auth/register 201 - 401ms | IP: ::1[39m
+2025-03-20 11:56:12:5612 [35mhttp[39m: [35mGET /api/menu 304 - 74ms | IP: ::1[39m
+2025-03-20 11:56:12:5612 [35mhttp[39m: [35mGET /api/menu 304 - 74ms | IP: ::1[39m
+2025-03-20 12:00:46:046 [35mhttp[39m: [35mGET /api/admin/users 403 - 4ms | IP: ::1[39m
+2025-03-20 12:01:02:12 [35mhttp[39m: [35mPOST /api/auth/login 200 - 153ms | IP: ::1[39m
+2025-03-20 12:01:13:113 [35mhttp[39m: [35mGET /api/admin/users 200 - 71ms | IP: ::1[39m
+2025-03-20 12:02:30:230 [35mhttp[39m: [35mPOST /api/auth/register 201 - 1306ms | IP: ::1[39m
+2025-03-20 12:04:00:40 [35mhttp[39m: [35mPOST /api/auth/register 201 - 149ms | IP: ::1[39m
+2025-03-20 12:04:11:411 [35mhttp[39m: [35mPOST /api/auth/login 200 - 252ms | IP: ::1[39m
+2025-03-20 12:04:11:411 [35mhttp[39m: [35mGET /api/reservations?status=confirmed&limit=5 404 - 22ms | IP: ::1[39m
+2025-03-20 12:04:11:411 [35mhttp[39m: [35mGET /api/reservations?status=confirmed&limit=5 404 - 2ms | IP: ::1[39m
+2025-03-20 12:04:11:411 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 210ms | IP: ::1[39m
+2025-03-20 12:04:11:411 [35mhttp[39m: [35mGET /api/admin/analytics 200 - 301ms | IP: ::1[39m
+2025-03-20 12:04:11:411 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 142ms | IP: ::1[39m
+2025-03-20 12:04:12:412 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 648ms | IP: ::1[39m
+2025-03-20 12:04:29:429 [35mhttp[39m: [35mGET /api/menu 304 - 80ms | IP: ::1[39m
+2025-03-20 12:04:29:429 [35mhttp[39m: [35mGET /api/menu 304 - 85ms | IP: ::1[39m
+2025-03-20 12:04:47:447 [35mhttp[39m: [35mGET /api/orders 200 - 153ms | IP: ::1[39m
+2025-03-20 12:04:47:447 [35mhttp[39m: [35mGET /api/orders 200 - 180ms | IP: ::1[39m
+2025-03-20 12:04:53:453 [35mhttp[39m: [35mPUT /api/orders/67db0221884a8e454f96e41d/status 200 - 232ms | IP: ::1[39m
+2025-03-20 12:05:02:52 [35mhttp[39m: [35mGET /api/orders 200 - 402ms | IP: ::1[39m
+2025-03-20 12:05:03:53 [35mhttp[39m: [35mGET /api/orders 200 - 614ms | IP: ::1[39m
+2025-03-20 12:05:04:54 [35mhttp[39m: [35mGET /api/admin/users 200 - 78ms | IP: ::1[39m
+2025-03-20 12:05:04:54 [35mhttp[39m: [35mGET /api/admin/users 200 - 65ms | IP: ::1[39m
+2025-03-20 12:05:17:517 [35mhttp[39m: [35mGET /api/admin/users 200 - 74ms | IP: ::1[39m
+2025-03-20 12:05:17:517 [35mhttp[39m: [35mGET /api/admin/users 200 - 76ms | IP: ::1[39m
+2025-03-20 12:05:18:518 [35mhttp[39m: [35mGET /api/orders 200 - 139ms | IP: ::1[39m
+2025-03-20 12:05:18:518 [35mhttp[39m: [35mGET /api/orders 200 - 143ms | IP: ::1[39m
+2025-03-20 12:14:31:1431 [35mhttp[39m: [35mGET /api/orders 200 - 166ms | IP: ::1[39m
+2025-03-20 12:14:31:1431 [35mhttp[39m: [35mGET /api/orders 200 - 133ms | IP: ::1[39m
+2025-03-20 12:15:22:1522 [35mhttp[39m: [35mGET /api/orders 200 - 344ms | IP: ::1[39m
+2025-03-20 12:15:22:1522 [35mhttp[39m: [35mGET /api/orders 200 - 394ms | IP: ::1[39m
+2025-03-20 12:15:27:1527 [35mhttp[39m: [35mGET /api/reports/menu-metrics?startDate=2025-02-18&endDate=2025-03-20 200 - 87ms | IP: ::1[39m
+2025-03-20 12:15:27:1527 [35mhttp[39m: [35mGET /api/reports/menu-metrics?startDate=2025-02-18&endDate=2025-03-20 200 - 78ms | IP: ::1[39m
+2025-03-20 12:15:27:1527 [35mhttp[39m: [35mGET /api/reports/peak-hours?date=2025-03-20 200 - 157ms | IP: ::1[39m
+2025-03-20 12:15:27:1527 [35mhttp[39m: [35mGET /api/reports/monthly?month=3&year=2025 200 - 252ms | IP: ::1[39m
+2025-03-20 12:15:27:1527 [35mhttp[39m: [35mGET /api/reports/peak-hours?date=2025-03-20 304 - 133ms | IP: ::1[39m
+2025-03-20 12:15:27:1527 [35mhttp[39m: [35mGET /api/reports/monthly?month=3&year=2025 200 - 196ms | IP: ::1[39m
+2025-03-20 12:15:36:1536 [35mhttp[39m: [35mGET /api/reports/menu-metrics?startDate=2025-02-18&endDate=2025-03-20 304 - 79ms | IP: ::1[39m
+2025-03-20 12:15:36:1536 [35mhttp[39m: [35mGET /api/reports/peak-hours?date=2025-03-20 304 - 128ms | IP: ::1[39m
+2025-03-20 12:15:36:1536 [35mhttp[39m: [35mGET /api/reports/menu-metrics?startDate=2025-02-18&endDate=2025-03-20 304 - 66ms | IP: ::1[39m
+2025-03-20 12:15:36:1536 [35mhttp[39m: [35mGET /api/reports/monthly?month=3&year=2025 200 - 204ms | IP: ::1[39m
+2025-03-20 12:15:36:1536 [35mhttp[39m: [35mGET /api/reports/peak-hours?date=2025-03-20 304 - 123ms | IP: ::1[39m
+2025-03-20 12:15:36:1536 [35mhttp[39m: [35mGET /api/reports/monthly?month=3&year=2025 200 - 194ms | IP: ::1[39m
+2025-03-20 12:17:07:177 [35mhttp[39m: [35mGET /api/reservations?status=confirmed&limit=5 404 - 3ms | IP: ::1[39m
+2025-03-20 12:17:07:177 [35mhttp[39m: [35mGET /api/reservations?status=confirmed&limit=5 404 - 1ms | IP: ::1[39m
+2025-03-20 12:17:07:177 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 138ms | IP: ::1[39m
+2025-03-20 12:17:07:177 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 250ms | IP: ::1[39m
+2025-03-20 12:17:07:177 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 128ms | IP: ::1[39m
+2025-03-20 12:17:08:178 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 248ms | IP: ::1[39m
+2025-03-20 12:17:13:1713 [35mhttp[39m: [35mGET /api/reservations?status=confirmed&limit=5 404 - 1ms | IP: ::1[39m
+2025-03-20 12:17:13:1713 [35mhttp[39m: [35mGET /api/reservations?status=confirmed&limit=5 404 - 0ms | IP: ::1[39m
+2025-03-20 12:17:13:1713 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 139ms | IP: ::1[39m
+2025-03-20 12:17:14:1714 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 281ms | IP: ::1[39m
+2025-03-20 12:17:14:1714 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 139ms | IP: ::1[39m
+2025-03-20 12:17:14:1714 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 241ms | IP: ::1[39m
+2025-03-20 12:17:32:1732 [35mhttp[39m: [35mGET /api/menu 304 - 827ms | IP: ::1[39m
+2025-03-20 12:17:33:1733 [35mhttp[39m: [35mGET /api/menu 304 - 1140ms | IP: ::1[39m
+2025-03-20 12:17:45:1745 [35mhttp[39m: [35mPUT /api/menu/678a88daeaa4b24273b379e9 200 - 345ms | IP: ::1[39m
+2025-03-20 12:17:45:1745 [35mhttp[39m: [35mGET /api/menu 200 - 207ms | IP: ::1[39m
+2025-03-20 12:20:06:206 [35mhttp[39m: [35mGET /api/menu 304 - 286ms | IP: ::1[39m
+2025-03-20 12:20:06:206 [35mhttp[39m: [35mGET /api/menu 304 - 65ms | IP: ::1[39m
+2025-03-20 12:20:08:208 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 272ms | IP: ::1[39m
+2025-03-20 12:20:08:208 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 200 - 294ms | IP: ::1[39m
+2025-03-20 12:20:08:208 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 431ms | IP: ::1[39m
+2025-03-20 12:20:08:208 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 144ms | IP: ::1[39m
+2025-03-20 12:20:08:208 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 155ms | IP: ::1[39m
+2025-03-20 12:20:08:208 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 260ms | IP: ::1[39m
+2025-03-20 12:20:25:2025 [35mhttp[39m: [35mGET /api/orders 200 - 393ms | IP: ::1[39m
+2025-03-20 12:20:26:2026 [35mhttp[39m: [35mGET /api/orders 200 - 148ms | IP: ::1[39m
+2025-03-20 12:20:29:2029 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 188ms | IP: ::1[39m
+2025-03-20 12:20:29:2029 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 223ms | IP: ::1[39m
+2025-03-20 12:20:29:2029 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 312ms | IP: ::1[39m
+2025-03-20 12:20:29:2029 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 133ms | IP: ::1[39m
+2025-03-20 12:20:29:2029 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 138ms | IP: ::1[39m
+2025-03-20 12:20:29:2029 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 262ms | IP: ::1[39m
+2025-03-20 12:20:31:2031 [35mhttp[39m: [35mGET /api/reports/menu-metrics?startDate=2025-02-18&endDate=2025-03-20 200 - 74ms | IP: ::1[39m
+2025-03-20 12:20:31:2031 [35mhttp[39m: [35mGET /api/reports/peak-hours?date=2025-03-20 304 - 150ms | IP: ::1[39m
+2025-03-20 12:20:31:2031 [35mhttp[39m: [35mGET /api/reports/menu-metrics?startDate=2025-02-18&endDate=2025-03-20 304 - 78ms | IP: ::1[39m
+2025-03-20 12:20:31:2031 [35mhttp[39m: [35mGET /api/reports/monthly?month=3&year=2025 200 - 223ms | IP: ::1[39m
+2025-03-20 12:20:31:2031 [35mhttp[39m: [35mGET /api/reports/peak-hours?date=2025-03-20 304 - 133ms | IP: ::1[39m
+2025-03-20 12:20:31:2031 [35mhttp[39m: [35mGET /api/reports/monthly?month=3&year=2025 200 - 202ms | IP: ::1[39m
+2025-03-20 12:20:37:2037 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 161ms | IP: ::1[39m
+2025-03-20 12:20:37:2037 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 163ms | IP: ::1[39m
+2025-03-20 12:20:37:2037 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 277ms | IP: ::1[39m
+2025-03-20 12:20:37:2037 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 131ms | IP: ::1[39m
+2025-03-20 12:20:37:2037 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 144ms | IP: ::1[39m
+2025-03-20 12:20:37:2037 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 253ms | IP: ::1[39m
+2025-03-20 12:20:39:2039 [35mhttp[39m: [35mGET /api/orders 200 - 147ms | IP: ::1[39m
+2025-03-20 12:20:39:2039 [35mhttp[39m: [35mGET /api/orders 200 - 144ms | IP: ::1[39m
+2025-03-20 12:20:41:2041 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 387ms | IP: ::1[39m
+2025-03-20 12:20:41:2041 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 392ms | IP: ::1[39m
+2025-03-20 12:20:41:2041 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 528ms | IP: ::1[39m
+2025-03-20 12:20:41:2041 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 133ms | IP: ::1[39m
+2025-03-20 12:20:41:2041 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 136ms | IP: ::1[39m
+2025-03-20 12:20:41:2041 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 260ms | IP: ::1[39m
+2025-03-20 12:20:43:2043 [35mhttp[39m: [35mGET /api/reservations/all 200 - 149ms | IP: ::1[39m
+2025-03-20 12:20:43:2043 [35mhttp[39m: [35mGET /api/reservations/all 304 - 136ms | IP: ::1[39m
+2025-03-20 12:21:01:211 [35mhttp[39m: [35mPATCH /api/reservations/67dbad314d5c8d0e16c0fa5d/status 200 - 8407ms | IP: ::1[39m
+2025-03-20 12:21:02:212 [35mhttp[39m: [35mPATCH /api/reservations/67dbad314d5c8d0e16c0fa5d/status 200 - 5446ms | IP: ::1[39m
+2025-03-20 12:21:09:219 [35mhttp[39m: [35mGET /api/reservations/all?status=pending 200 - 86ms | IP: ::1[39m
+2025-03-20 12:21:14:2114 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed 200 - 288ms | IP: ::1[39m
+2025-03-20 12:21:16:2116 [35mhttp[39m: [35mGET /api/reservations/all 200 - 142ms | IP: ::1[39m
+2025-03-20 12:21:20:2120 [35mhttp[39m: [35mGET /api/reservations/all?date=2025-03-20 200 - 142ms | IP: ::1[39m
+2025-03-20 12:21:34:2134 [35mhttp[39m: [35mGET /api/menu 304 - 84ms | IP: ::1[39m
+2025-03-20 12:21:34:2134 [35mhttp[39m: [35mGET /api/menu 304 - 73ms | IP: ::1[39m
+2025-03-20 12:21:35:2135 [35mhttp[39m: [35mGET /api/orders 200 - 403ms | IP: ::1[39m
+2025-03-20 12:21:36:2136 [35mhttp[39m: [35mGET /api/orders 200 - 138ms | IP: ::1[39m
+2025-03-20 12:21:39:2139 [35mhttp[39m: [35mGET /api/reservations/all 304 - 160ms | IP: ::1[39m
+2025-03-20 12:21:39:2139 [35mhttp[39m: [35mGET /api/reservations/all 304 - 150ms | IP: ::1[39m
+2025-03-20 12:21:42:2142 [35mhttp[39m: [35mGET /api/admin/users 200 - 76ms | IP: ::1[39m
+2025-03-20 12:21:42:2142 [35mhttp[39m: [35mGET /api/admin/users 200 - 72ms | IP: ::1[39m
+2025-03-20 12:21:44:2144 [35mhttp[39m: [35mGET /api/reports/menu-metrics?startDate=2025-02-18&endDate=2025-03-20 200 - 84ms | IP: ::1[39m
+2025-03-20 12:21:44:2144 [35mhttp[39m: [35mGET /api/reports/menu-metrics?startDate=2025-02-18&endDate=2025-03-20 200 - 76ms | IP: ::1[39m
+2025-03-20 12:21:44:2144 [35mhttp[39m: [35mGET /api/reports/peak-hours?date=2025-03-20 304 - 163ms | IP: ::1[39m
+2025-03-20 12:21:44:2144 [35mhttp[39m: [35mGET /api/reports/monthly?month=3&year=2025 200 - 229ms | IP: ::1[39m
+2025-03-20 12:21:44:2144 [35mhttp[39m: [35mGET /api/reports/peak-hours?date=2025-03-20 304 - 133ms | IP: ::1[39m
+2025-03-20 12:21:44:2144 [35mhttp[39m: [35mGET /api/reports/monthly?month=3&year=2025 200 - 213ms | IP: ::1[39m
+2025-03-20 12:21:45:2145 [35mhttp[39m: [35mGET /api/admin/users 200 - 77ms | IP: ::1[39m
+2025-03-20 12:21:45:2145 [35mhttp[39m: [35mGET /api/admin/users 200 - 66ms | IP: ::1[39m
+2025-03-20 12:22:13:2213 [35mhttp[39m: [35mPUT /api/admin/users/6798dfcdeb98e2e2b589834f 404 - 3ms | IP: ::1[39m
+2025-03-20 12:22:30:2230 [35mhttp[39m: [35mDELETE /api/admin/users/6798dfcdeb98e2e2b589834f 404 - 5ms | IP: ::1[39m
+2025-03-20 12:26:41:2641 [35mhttp[39m: [35mGET /api/admin/users 200 - 2537ms | IP: ::1[39m
+2025-03-20 12:27:13:2713 [35mhttp[39m: [35mGET /api/admin/users 200 - 3526ms | IP: ::1[39m
+2025-03-20 12:27:13:2713 [35mhttp[39m: [35mGET /api/admin/users 200 - 59ms | IP: ::1[39m
+2025-03-20 12:27:31:2731 [35mhttp[39m: [35mPUT /api/admin/users/67dba2514ecb2e77e84c1d22 404 - 1ms | IP: ::1[39m
+2025-03-20 12:29:46:2946 [35mhttp[39m: [35mGET /api/reports/monthly?month=3&year=2025 200 - 231ms | IP: ::1[39m
+2025-03-20 12:29:46:2946 [35mhttp[39m: [35mGET /api/reports/monthly?month=3&year=2025 200 - 200ms | IP: ::1[39m
+2025-03-20 12:29:46:2946 [35mhttp[39m: [35mGET /api/reports/menu-metrics?startDate=2025-02-18&endDate=2025-03-20 304 - 825ms | IP: ::1[39m
+2025-03-20 12:29:46:2946 [35mhttp[39m: [35mGET /api/reports/peak-hours?date=2025-03-20 304 - 890ms | IP: ::1[39m
+2025-03-20 12:29:46:2946 [35mhttp[39m: [35mGET /api/reports/menu-metrics?startDate=2025-02-18&endDate=2025-03-20 200 - 70ms | IP: ::1[39m
+2025-03-20 12:29:46:2946 [35mhttp[39m: [35mGET /api/reports/peak-hours?date=2025-03-20 304 - 132ms | IP: ::1[39m
+2025-03-20 12:29:51:2951 [35mhttp[39m: [35mGET /api/reports/menu-metrics?startDate=2025-02-18&endDate=2025-03-20 304 - 81ms | IP: ::1[39m
+2025-03-20 12:29:51:2951 [35mhttp[39m: [35mGET /api/reports/menu-metrics?startDate=2025-02-18&endDate=2025-03-20 304 - 68ms | IP: ::1[39m
+2025-03-20 12:29:51:2951 [35mhttp[39m: [35mGET /api/reports/peak-hours?date=2025-03-20 304 - 155ms | IP: ::1[39m
+2025-03-20 12:29:51:2951 [35mhttp[39m: [35mGET /api/reports/monthly?month=3&year=2025 200 - 205ms | IP: ::1[39m
+2025-03-20 12:29:51:2951 [35mhttp[39m: [35mGET /api/reports/peak-hours?date=2025-03-20 304 - 133ms | IP: ::1[39m
+2025-03-20 12:29:51:2951 [35mhttp[39m: [35mGET /api/reports/monthly?month=3&year=2025 200 - 201ms | IP: ::1[39m
+2025-03-20 12:32:01:321 [35mhttp[39m: [35mGET /api/admin/users 200 - 97ms | IP: ::1[39m
+2025-03-20 12:32:01:321 [35mhttp[39m: [35mGET /api/admin/users 200 - 69ms | IP: ::1[39m
+2025-03-20 12:32:09:329 [35mhttp[39m: [35mPUT /api/admin/users/67dba2514ecb2e77e84c1d22 200 - 187ms | IP: ::1[39m
+2025-03-20 12:32:09:329 [35mhttp[39m: [35mGET /api/admin/users 200 - 312ms | IP: ::1[39m
+2025-03-20 12:32:16:3216 [35mhttp[39m: [35mGET /api/admin/users 200 - 358ms | IP: ::1[39m
+2025-03-20 12:32:16:3216 [35mhttp[39m: [35mGET /api/admin/users 200 - 94ms | IP: ::1[39m
+2025-03-20 12:36:24:3624 [35mhttp[39m: [35mPUT /api/admin/users/678a859d664b69f3a8c6f287 200 - 99ms | IP: ::1[39m
+2025-03-20 12:36:24:3624 [35mhttp[39m: [35mGET /api/admin/users 200 - 73ms | IP: ::1[39m
+2025-03-20 12:38:32:3832 [35mhttp[39m: [35mGET /api/reports/menu-metrics?startDate=2025-02-18&endDate=2025-03-20 200 - 141ms | IP: ::1[39m
+2025-03-20 12:38:32:3832 [35mhttp[39m: [35mGET /api/reports/menu-metrics?startDate=2025-02-18&endDate=2025-03-20 200 - 85ms | IP: ::1[39m
+2025-03-20 12:38:32:3832 [35mhttp[39m: [35mGET /api/reports/peak-hours?date=2025-03-20 304 - 233ms | IP: ::1[39m
+2025-03-20 12:38:32:3832 [35mhttp[39m: [35mGET /api/reports/monthly?month=3&year=2025 200 - 280ms | IP: ::1[39m
+2025-03-20 12:38:32:3832 [35mhttp[39m: [35mGET /api/reports/peak-hours?date=2025-03-20 304 - 127ms | IP: ::1[39m
+2025-03-20 12:38:32:3832 [35mhttp[39m: [35mGET /api/reports/monthly?month=3&year=2025 200 - 213ms | IP: ::1[39m
+2025-03-20 12:39:32:3932 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 200 - 170ms | IP: ::1[39m
+2025-03-20 12:39:32:3932 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 183ms | IP: ::1[39m
+2025-03-20 12:39:33:3933 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 266ms | IP: ::1[39m
+2025-03-20 12:39:33:3933 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 124ms | IP: ::1[39m
+2025-03-20 12:39:33:3933 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 126ms | IP: ::1[39m
+2025-03-20 12:39:33:3933 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 250ms | IP: ::1[39m
+2025-03-20 12:39:44:3944 [35mhttp[39m: [35mGET /api/menu 304 - 90ms | IP: ::1[39m
+2025-03-20 12:39:44:3944 [35mhttp[39m: [35mGET /api/menu 304 - 102ms | IP: ::1[39m
+2025-03-20 12:39:54:3954 [35mhttp[39m: [35mGET /api/orders 200 - 188ms | IP: ::1[39m
+2025-03-20 12:39:55:3955 [35mhttp[39m: [35mGET /api/orders 200 - 174ms | IP: ::1[39m
+2025-03-20 12:40:02:402 [35mhttp[39m: [35mGET /api/reservations/all 304 - 160ms | IP: ::1[39m
+2025-03-20 12:40:02:402 [35mhttp[39m: [35mGET /api/reservations/all 304 - 144ms | IP: ::1[39m
+2025-03-20 12:40:04:404 [35mhttp[39m: [35mGET /api/admin/users 200 - 81ms | IP: ::1[39m
+2025-03-20 12:40:04:404 [35mhttp[39m: [35mGET /api/admin/users 200 - 78ms | IP: ::1[39m
+2025-03-20 12:40:06:406 [35mhttp[39m: [35mGET /api/reports/menu-metrics?startDate=2025-02-18&endDate=2025-03-20 200 - 112ms | IP: ::1[39m
+2025-03-20 12:40:06:406 [35mhttp[39m: [35mGET /api/reports/peak-hours?date=2025-03-20 304 - 155ms | IP: ::1[39m
+2025-03-20 12:40:06:406 [35mhttp[39m: [35mGET /api/reports/menu-metrics?startDate=2025-02-18&endDate=2025-03-20 200 - 71ms | IP: ::1[39m
+2025-03-20 12:40:06:406 [35mhttp[39m: [35mGET /api/reports/monthly?month=3&year=2025 200 - 232ms | IP: ::1[39m
+2025-03-20 12:40:06:406 [35mhttp[39m: [35mGET /api/reports/peak-hours?date=2025-03-20 304 - 129ms | IP: ::1[39m
+2025-03-20 12:40:06:406 [35mhttp[39m: [35mGET /api/reports/monthly?month=3&year=2025 200 - 211ms | IP: ::1[39m
+2025-03-20 12:40:14:4014 [35mhttp[39m: [35mGET /api/reports/menu-metrics?startDate=2025-02-19&endDate=2025-03-20 200 - 117ms | IP: ::1[39m
+2025-03-20 12:40:14:4014 [35mhttp[39m: [35mGET /api/reports/peak-hours?date=2025-03-20 304 - 246ms | IP: ::1[39m
+2025-03-20 12:40:14:4014 [35mhttp[39m: [35mGET /api/reports/monthly?month=3&year=2025 200 - 286ms | IP: ::1[39m
+2025-03-20 12:40:18:4018 [35mhttp[39m: [35mGET /api/admin/users 200 - 276ms | IP: ::1[39m
+2025-03-20 12:40:18:4018 [35mhttp[39m: [35mGET /api/admin/users 200 - 78ms | IP: ::1[39m
+2025-03-20 12:42:20:4220 [35mhttp[39m: [35mGET /api/menu 304 - 78ms | IP: ::1[39m
+2025-03-20 12:42:20:4220 [35mhttp[39m: [35mGET /api/menu 304 - 159ms | IP: ::1[39m
+2025-03-20 13:03:52:352 [35mhttp[39m: [35mGET /api/menu 304 - 144ms | IP: ::1[39m
+2025-03-20 13:03:52:352 [35mhttp[39m: [35mGET /api/menu 304 - 75ms | IP: ::1[39m
+2025-03-20 18:48:10:4810 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 1473ms | IP: ::1[39m
+2025-03-20 18:48:11:4811 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 1519ms | IP: ::1[39m
+2025-03-20 18:48:11:4811 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 1545ms | IP: ::1[39m
+2025-03-20 18:48:11:4811 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 280ms | IP: ::1[39m
+2025-03-20 18:48:11:4811 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 137ms | IP: ::1[39m
+2025-03-20 18:48:11:4811 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 142ms | IP: ::1[39m
+2025-03-20 18:48:35:4835 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 240ms | IP: ::1[39m
+2025-03-20 18:48:35:4835 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 239ms | IP: ::1[39m
+2025-03-20 18:48:35:4835 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 222ms | IP: ::1[39m
+2025-03-20 18:48:36:4836 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 503ms | IP: ::1[39m
+2025-03-20 18:48:36:4836 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 764ms | IP: ::1[39m
+2025-03-20 18:48:36:4836 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 455ms | IP: ::1[39m
+2025-03-20 18:48:51:4851 [35mhttp[39m: [35mGET /api/menu 304 - 333ms | IP: ::1[39m
+2025-03-20 18:48:51:4851 [35mhttp[39m: [35mGET /api/menu 304 - 120ms | IP: ::1[39m
+2025-03-20 18:50:37:5037 [35mhttp[39m: [35mGET /api/menu 304 - 347ms | IP: ::1[39m
+2025-03-20 18:50:37:5037 [35mhttp[39m: [35mGET /api/menu 304 - 217ms | IP: ::1[39m
+2025-03-20 18:50:53:5053 [35mhttp[39m: [35mGET /api/menu 304 - 324ms | IP: ::1[39m
+2025-03-20 18:50:53:5053 [35mhttp[39m: [35mGET /api/menu 304 - 128ms | IP: ::1[39m
+2025-03-20 18:51:56:5156 [35mhttp[39m: [35mGET /api/menu 304 - 558ms | IP: ::1[39m
+2025-03-20 18:51:56:5156 [35mhttp[39m: [35mGET /api/menu 304 - 129ms | IP: ::1[39m
+2025-03-20 18:52:32:5232 [35mhttp[39m: [35mGET /api/menu 304 - 366ms | IP: ::1[39m
+2025-03-20 18:52:32:5232 [35mhttp[39m: [35mGET /api/menu 304 - 121ms | IP: ::1[39m
+2025-03-20 18:53:22:5322 [35mhttp[39m: [35mGET /api/menu 304 - 117ms | IP: ::1[39m
+2025-03-20 18:53:22:5322 [35mhttp[39m: [35mGET /api/menu 304 - 125ms | IP: ::1[39m
+2025-03-20 18:54:11:5411 [35mhttp[39m: [35mGET /api/menu 304 - 330ms | IP: ::1[39m
+2025-03-20 18:54:12:5412 [35mhttp[39m: [35mGET /api/menu 304 - 125ms | IP: ::1[39m
+2025-03-20 18:55:41:5541 [35mhttp[39m: [35mGET /api/menu 304 - 138ms | IP: ::1[39m
+2025-03-20 18:55:41:5541 [35mhttp[39m: [35mGET /api/menu 304 - 127ms | IP: ::1[39m
+2025-03-20 18:55:42:5542 [35mhttp[39m: [35mGET /api/menu 304 - 345ms | IP: ::1[39m
+2025-03-20 18:55:43:5543 [35mhttp[39m: [35mGET /api/menu 304 - 118ms | IP: ::1[39m
+2025-03-20 18:56:21:5621 [35mhttp[39m: [35mPOST /api/auth/login 200 - 486ms | IP: ::1[39m
+2025-03-20 18:56:22:5622 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 274ms | IP: ::1[39m
+2025-03-20 18:56:22:5622 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 510ms | IP: ::1[39m
+2025-03-20 18:56:22:5622 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 446ms | IP: ::1[39m
+2025-03-20 18:56:22:5622 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 1087ms | IP: ::1[39m
+2025-03-20 18:56:23:5623 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 932ms | IP: ::1[39m
+2025-03-20 18:56:23:5623 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 467ms | IP: ::1[39m
+2025-03-20 18:56:47:5647 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 345ms | IP: ::1[39m
+2025-03-20 18:56:47:5647 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 527ms | IP: ::1[39m
+2025-03-20 18:56:47:5647 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 252ms | IP: ::1[39m
+2025-03-20 18:56:47:5647 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 676ms | IP: ::1[39m
+2025-03-20 18:56:48:5648 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 239ms | IP: ::1[39m
+2025-03-20 18:56:48:5648 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 1257ms | IP: ::1[39m
+2025-03-20 18:57:07:577 [35mhttp[39m: [35mGET /api/reservations/all 304 - 1418ms | IP: ::1[39m
+2025-03-20 18:57:07:577 [35mhttp[39m: [35mGET /api/reservations/all 304 - 471ms | IP: ::1[39m
+2025-03-20 18:57:12:5712 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 123ms | IP: ::1[39m
+2025-03-20 18:57:12:5712 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 261ms | IP: ::1[39m
+2025-03-20 18:57:12:5712 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 139ms | IP: ::1[39m
+2025-03-20 18:57:12:5712 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 484ms | IP: ::1[39m
+2025-03-20 18:57:12:5712 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 257ms | IP: ::1[39m
+2025-03-20 18:57:13:5713 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 1304ms | IP: ::1[39m
+2025-03-20 19:09:25:925 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 390ms | IP: ::1[39m
+2025-03-20 19:09:25:925 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 392ms | IP: ::1[39m
+2025-03-20 19:09:25:925 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 530ms | IP: ::1[39m
+2025-03-20 19:09:25:925 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 122ms | IP: ::1[39m
+2025-03-20 19:09:25:925 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 129ms | IP: ::1[39m
+2025-03-20 19:09:25:925 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 277ms | IP: ::1[39m
+2025-03-20 19:45:04:454 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 1149ms | IP: ::1[39m
+2025-03-20 19:45:04:454 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 1362ms | IP: ::1[39m
+2025-03-20 19:45:04:454 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 286ms | IP: ::1[39m
+2025-03-20 19:45:04:454 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 1437ms | IP: ::1[39m
+2025-03-20 19:45:04:454 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 149ms | IP: ::1[39m
+2025-03-20 19:45:04:454 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 143ms | IP: ::1[39m
+2025-03-20 19:45:17:4517 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 198ms | IP: ::1[39m
+2025-03-20 19:45:17:4517 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 200ms | IP: ::1[39m
+2025-03-20 19:45:17:4517 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 317ms | IP: ::1[39m
+2025-03-20 19:45:17:4517 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 131ms | IP: ::1[39m
+2025-03-20 19:45:17:4517 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 131ms | IP: ::1[39m
+2025-03-20 19:45:18:4518 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 505ms | IP: ::1[39m
+2025-03-20 19:45:39:4539 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 1153ms | IP: ::1[39m
+2025-03-20 19:45:39:4539 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 1159ms | IP: ::1[39m
+2025-03-20 19:45:40:4540 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 2500ms | IP: ::1[39m
+2025-03-20 19:45:40:4540 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 1518ms | IP: ::1[39m
+2025-03-20 19:45:41:4541 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 1974ms | IP: ::1[39m
+2025-03-20 19:45:44:4544 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 3905ms | IP: ::1[39m
+2025-03-20 19:45:51:4551 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 408ms | IP: ::1[39m
+2025-03-20 19:45:51:4551 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 408ms | IP: ::1[39m
+2025-03-20 19:45:52:4552 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 722ms | IP: ::1[39m
+2025-03-20 19:45:52:4552 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 337ms | IP: ::1[39m
+2025-03-20 19:45:52:4552 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 354ms | IP: ::1[39m
+2025-03-20 19:45:53:4553 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 830ms | IP: ::1[39m
+2025-03-20 19:45:53:4553 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 839ms | IP: ::1[39m
+2025-03-20 19:45:54:4554 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 2187ms | IP: ::1[39m
+2025-03-20 19:45:57:4557 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 4401ms | IP: ::1[39m
+2025-03-20 19:45:57:4557 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 4394ms | IP: ::1[39m
+2025-03-20 19:45:58:4558 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 1022ms | IP: ::1[39m
+2025-03-20 19:45:58:4558 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 1027ms | IP: ::1[39m
+2025-03-20 19:45:58:4558 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 4405ms | IP: ::1[39m
+2025-03-20 19:45:58:4558 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 263ms | IP: ::1[39m
+2025-03-20 19:45:58:4558 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 262ms | IP: ::1[39m
+2025-03-20 19:45:59:4559 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 455ms | IP: ::1[39m
+2025-03-20 19:45:59:4559 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 260ms | IP: ::1[39m
+2025-03-20 19:45:59:4559 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 257ms | IP: ::1[39m
+2025-03-20 19:46:00:460 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 960ms | IP: ::1[39m
+2025-03-20 19:46:00:460 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 967ms | IP: ::1[39m
+2025-03-20 19:46:00:460 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 1190ms | IP: ::1[39m
+2025-03-20 19:46:00:460 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 477ms | IP: ::1[39m
+2025-03-20 19:46:00:460 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 476ms | IP: ::1[39m
+2025-03-20 19:46:01:461 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 263ms | IP: ::1[39m
+2025-03-20 19:46:01:461 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 273ms | IP: ::1[39m
+2025-03-20 19:46:01:461 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 776ms | IP: ::1[39m
+2025-03-20 19:46:01:461 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 275ms | IP: ::1[39m
+2025-03-20 19:46:01:461 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 580ms | IP: ::1[39m
+2025-03-20 19:46:02:462 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 272ms | IP: ::1[39m
+2025-03-20 19:46:02:462 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 256ms | IP: ::1[39m
+2025-03-20 19:46:02:462 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 287ms | IP: ::1[39m
+2025-03-20 19:46:02:462 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 451ms | IP: ::1[39m
+2025-03-20 19:46:03:463 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 516ms | IP: ::1[39m
+2025-03-20 19:46:03:463 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 689ms | IP: ::1[39m
+2025-03-20 19:46:03:463 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 847ms | IP: ::1[39m
+2025-03-20 19:46:03:463 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 282ms | IP: ::1[39m
+2025-03-20 19:46:10:4610 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 486ms | IP: ::1[39m
+2025-03-20 19:46:10:4610 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 517ms | IP: ::1[39m
+2025-03-20 19:46:11:4611 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 1620ms | IP: ::1[39m
+2025-03-20 19:46:11:4611 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 1144ms | IP: ::1[39m
+2025-03-20 19:46:11:4611 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 1115ms | IP: ::1[39m
+2025-03-20 19:46:12:4612 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 434ms | IP: ::1[39m
+2025-03-20 19:46:24:4624 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 703ms | IP: ::1[39m
+2025-03-20 19:46:24:4624 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 720ms | IP: ::1[39m
+2025-03-20 19:46:25:4625 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 1321ms | IP: ::1[39m
+2025-03-20 19:46:25:4625 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 620ms | IP: ::1[39m
+2025-03-20 19:46:25:4625 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 904ms | IP: ::1[39m
+2025-03-20 19:46:25:4625 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 575ms | IP: ::1[39m
+2025-03-20 19:46:36:4636 [35mhttp[39m: [35mGET /api/admin/users 200 - 308ms | IP: ::1[39m
+2025-03-20 19:46:36:4636 [35mhttp[39m: [35mGET /api/admin/users 200 - 78ms | IP: ::1[39m
+2025-03-20 19:46:46:4646 [35mhttp[39m: [35mPUT /api/admin/users/678a859d664b69f3a8c6f287 500 - 4ms | IP: ::1[39m
+2025-03-20 19:48:17:4817 [35mhttp[39m: [35mGET /api/admin/users 200 - 74ms | IP: ::1[39m
+2025-03-20 19:48:17:4817 [35mhttp[39m: [35mGET /api/admin/users 200 - 74ms | IP: ::1[39m
+2025-03-20 19:48:47:4847 [35mhttp[39m: [35mPOST /api/admin/users 500 - 3ms | IP: ::1[39m
+2025-03-20 19:53:53:5353 [35mhttp[39m: [35mPOST /api/admin/users 500 - 4ms | IP: ::1[39m
+2025-03-20 19:57:24:5724 [35mhttp[39m: [35mGET /api/admin/users 200 - 88ms | IP: ::1[39m
+2025-03-20 19:57:24:5724 [35mhttp[39m: [35mGET /api/admin/users 200 - 72ms | IP: ::1[39m
+2025-03-20 19:57:53:5753 [35mhttp[39m: [35mPOST /api/admin/users 500 - 3ms | IP: ::1[39m
+2025-03-20 19:59:42:5942 [35mhttp[39m: [35mPOST /api/admin/users 500 - 2ms | IP: ::1[39m
+2025-03-20 19:59:47:5947 [35mhttp[39m: [35mGET /api/admin/users 200 - 268ms | IP: ::1[39m
+2025-03-20 19:59:47:5947 [35mhttp[39m: [35mGET /api/admin/users 200 - 76ms | IP: ::1[39m
+2025-03-20 20:03:49:349 [35mhttp[39m: [35mPOST /api/admin/users 201 - 265ms | IP: ::1[39m
+2025-03-20 20:03:49:349 [35mhttp[39m: [35mGET /api/admin/users 200 - 105ms | IP: ::1[39m
+2025-03-20 20:05:32:532 [35mhttp[39m: [35mGET /api/admin/users 200 - 162ms | IP: ::1[39m
+2025-03-20 20:05:32:532 [35mhttp[39m: [35mGET /api/admin/users 200 - 612ms | IP: ::1[39m
+2025-03-20 20:05:43:543 [35mhttp[39m: [35mPOST /api/auth/login 200 - 435ms | IP: ::1[39m
+2025-03-20 20:05:43:543 [35mhttp[39m: [35mGET /api/staff/dashboard/stats 404 - 9ms | IP: ::1[39m
+2025-03-20 20:05:43:543 [35mhttp[39m: [35mGET /api/staff/dashboard/recent-orders 404 - 9ms | IP: ::1[39m
+2025-03-20 20:05:43:543 [35mhttp[39m: [35mGET /api/staff/dashboard/stats 404 - 3ms | IP: ::1[39m
+2025-03-20 20:05:43:543 [35mhttp[39m: [35mGET /api/staff/dashboard/recent-orders 404 - 5ms | IP: ::1[39m
+2025-03-20 20:06:09:69 [35mhttp[39m: [35mGET /api/staff/kitchen/orders 404 - 3ms | IP: ::1[39m
+2025-03-20 20:06:09:69 [35mhttp[39m: [35mGET /api/staff/kitchen/orders 404 - 3ms | IP: ::1[39m
+2025-03-20 20:06:17:617 [35mhttp[39m: [35mGET /api/staff/dashboard/stats 404 - 8ms | IP: ::1[39m
+2025-03-20 20:06:17:617 [35mhttp[39m: [35mGET /api/staff/dashboard/recent-orders 404 - 6ms | IP: ::1[39m
+2025-03-20 20:06:17:617 [35mhttp[39m: [35mGET /api/staff/dashboard/stats 404 - 4ms | IP: ::1[39m
+2025-03-20 20:06:17:617 [35mhttp[39m: [35mGET /api/staff/dashboard/recent-orders 404 - 3ms | IP: ::1[39m
+2025-03-20 20:06:18:618 [35mhttp[39m: [35mGET /api/staff/tables 404 - 3ms | IP: ::1[39m
+2025-03-20 20:06:18:618 [35mhttp[39m: [35mGET /api/staff/tables 404 - 3ms | IP: ::1[39m
+2025-03-20 20:06:24:624 [35mhttp[39m: [35mGET /api/staff/orders?status=all 404 - 3ms | IP: ::1[39m
+2025-03-20 20:06:24:624 [35mhttp[39m: [35mGET /api/staff/orders?status=all 404 - 3ms | IP: ::1[39m
+2025-03-20 20:09:01:91 [35mhttp[39m: [35mGET /api/staff/orders?status=all 404 - 2ms | IP: ::1[39m
+2025-03-20 20:09:01:91 [35mhttp[39m: [35mGET /api/staff/orders?status=all 404 - 2ms | IP: ::1[39m
+2025-03-20 20:12:22:1222 [35mhttp[39m: [35mGET /api/staff/orders?status=all 404 - 2ms | IP: ::1[39m
+2025-03-20 20:12:22:1222 [35mhttp[39m: [35mGET /api/staff/orders?status=all 404 - 3ms | IP: ::1[39m
+2025-03-20 20:16:42:1642 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 160ms | IP: ::1[39m
+2025-03-20 20:16:42:1642 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 130ms | IP: ::1[39m
+2025-03-20 20:16:47:1647 [35mhttp[39m: [35mGET /api/kitchen/active-orders 200 - 162ms | IP: ::1[39m
+2025-03-20 20:16:47:1647 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 147ms | IP: ::1[39m
+2025-03-20 20:17:18:1718 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 350ms | IP: ::1[39m
+2025-03-20 20:17:19:1719 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 476ms | IP: ::1[39m
+2025-03-20 20:17:21:1721 [35mhttp[39m: [35mGET /api/staff/tables 404 - 5ms | IP: ::1[39m
+2025-03-20 20:17:21:1721 [35mhttp[39m: [35mGET /api/staff/tables 404 - 8ms | IP: ::1[39m
+2025-03-20 20:18:29:1829 [35mhttp[39m: [35mGET /api/staff/tables 404 - 2ms | IP: ::1[39m
+2025-03-20 20:18:29:1829 [35mhttp[39m: [35mGET /api/staff/tables 404 - 1ms | IP: ::1[39m
+2025-03-20 20:18:31:1831 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 367ms | IP: ::1[39m
+2025-03-20 20:18:31:1831 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 149ms | IP: ::1[39m
+2025-03-20 20:18:36:1836 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 139ms | IP: ::1[39m
+2025-03-20 20:18:36:1836 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 155ms | IP: ::1[39m
+2025-03-20 20:19:21:1921 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 143ms | IP: ::1[39m
+2025-03-20 20:19:21:1921 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 239ms | IP: ::1[39m
+2025-03-20 20:19:31:1931 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 144ms | IP: ::1[39m
+2025-03-20 20:19:31:1931 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 381ms | IP: ::1[39m
+2025-03-20 20:19:42:1942 [35mhttp[39m: [35mPATCH /api/kitchen/orders/67db0251884a8e454f96e427/status 404 - 3ms | IP: ::1[39m
+2025-03-20 21:46:23:4623 [35mhttp[39m: [35mGET /api/kitchen/active-orders 200 - 6661ms | IP: ::1[39m
+2025-03-20 21:46:26:4626 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 8865ms | IP: ::1[39m
+2025-03-20 21:46:27:4627 [35mhttp[39m: [35mGET /api/kitchen/active-orders 200 - 29699ms | IP: ::1[39m
+2025-03-20 21:46:28:4628 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 2036ms | IP: ::1[39m
+2025-03-20 21:46:37:4637 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 2651ms | IP: ::1[39m
+2025-03-20 21:46:38:4638 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 702ms | IP: ::1[39m
+2025-03-20 21:46:39:4639 [35mhttp[39m: [35mPATCH /api/kitchen/orders/67db0251884a8e454f96e427/status 404 - 2ms | IP: ::1[39m
+2025-03-20 21:47:54:4754 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 231ms | IP: ::1[39m
+2025-03-20 21:47:55:4755 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 635ms | IP: ::1[39m
+2025-03-20 21:47:55:4755 [35mhttp[39m: [35mPATCH /api/staff/orders/67db0251884a8e454f96e427/status 404 - 2ms | IP: ::1[39m
+2025-03-20 21:48:10:4810 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 693ms | IP: ::1[39m
+2025-03-20 21:48:10:4810 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 125ms | IP: ::1[39m
+2025-03-20 21:48:11:4811 [35mhttp[39m: [35mPUT /api/staff/orders/67db0251884a8e454f96e427/status 200 - 191ms | IP: ::1[39m
+2025-03-20 21:48:11:4811 [35mhttp[39m: [35mGET /api/kitchen/active-orders 200 - 148ms | IP: ::1[39m
+2025-03-20 21:48:17:4817 [35mhttp[39m: [35mPUT /api/staff/orders/67db0221884a8e454f96e41d/status 200 - 151ms | IP: ::1[39m
+2025-03-20 21:48:17:4817 [35mhttp[39m: [35mGET /api/kitchen/active-orders 200 - 125ms | IP: ::1[39m
+2025-03-20 21:48:28:4828 [35mhttp[39m: [35mPUT /api/staff/orders/67dba2ce4ecb2e77e84c1d29/status 200 - 289ms | IP: ::1[39m
+2025-03-20 21:48:28:4828 [35mhttp[39m: [35mGET /api/kitchen/active-orders 200 - 337ms | IP: ::1[39m
+2025-03-20 21:48:37:4837 [35mhttp[39m: [35mGET /api/staff/tables 404 - 2ms | IP: ::1[39m
+2025-03-20 21:48:37:4837 [35mhttp[39m: [35mGET /api/staff/tables 404 - 2ms | IP: ::1[39m
+2025-03-20 21:50:53:5053 [35mhttp[39m: [35mGET /api/tables 200 - 3482ms | IP: ::1[39m
+2025-03-20 21:50:53:5053 [35mhttp[39m: [35mGET /api/tables 304 - 922ms | IP: ::1[39m
+2025-03-20 21:51:47:5147 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 1108ms | IP: ::1[39m
+2025-03-20 21:51:48:5148 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 707ms | IP: ::1[39m
+2025-03-20 21:52:09:529 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 157ms | IP: ::1[39m
+2025-03-20 21:52:10:5210 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 454ms | IP: ::1[39m
+2025-03-20 21:52:13:5213 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 435ms | IP: ::1[39m
+2025-03-20 21:52:16:5216 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 176ms | IP: ::1[39m
+2025-03-20 21:56:02:562 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 399ms | IP: ::1[39m
+2025-03-20 21:56:02:562 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 305ms | IP: ::1[39m
+2025-03-20 21:57:37:5737 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 126ms | IP: ::1[39m
+2025-03-20 21:57:37:5737 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 133ms | IP: ::1[39m
+2025-03-20 21:57:39:5739 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 174ms | IP: ::1[39m
+2025-03-20 21:57:39:5739 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 145ms | IP: ::1[39m
+2025-03-20 21:59:05:595 [35mhttp[39m: [35mGET /api/tables 304 - 133ms | IP: ::1[39m
+2025-03-20 21:59:05:595 [35mhttp[39m: [35mGET /api/tables 304 - 134ms | IP: ::1[39m
+2025-03-20 21:59:11:5911 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 159ms | IP: ::1[39m
+2025-03-20 21:59:12:5912 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 134ms | IP: ::1[39m
+2025-03-20 21:59:52:5952 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 383ms | IP: ::1[39m
+2025-03-20 21:59:52:5952 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 132ms | IP: ::1[39m
+2025-03-20 21:59:59:5959 [35mhttp[39m: [35mGET /api/tables 304 - 148ms | IP: ::1[39m
+2025-03-20 21:59:59:5959 [35mhttp[39m: [35mGET /api/tables 304 - 125ms | IP: ::1[39m
+2025-03-20 22:00:01:01 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 159ms | IP: ::1[39m
+2025-03-20 22:00:01:01 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 150ms | IP: ::1[39m
+2025-03-20 22:00:05:05 [35mhttp[39m: [35mPUT /api/staff/orders/67db0251884a8e454f96e427/status 200 - 144ms | IP: ::1[39m
+2025-03-20 22:00:05:05 [35mhttp[39m: [35mGET /api/kitchen/active-orders 200 - 138ms | IP: ::1[39m
+2025-03-20 22:02:14:214 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 144ms | IP: ::1[39m
+2025-03-20 22:02:14:214 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 327ms | IP: ::1[39m
+2025-03-20 22:02:16:216 [35mhttp[39m: [35mGET /api/tables 304 - 416ms | IP: ::1[39m
+2025-03-20 22:02:16:216 [35mhttp[39m: [35mGET /api/tables 304 - 127ms | IP: ::1[39m
+2025-03-20 22:02:17:217 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 138ms | IP: ::1[39m
+2025-03-20 22:02:17:217 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 124ms | IP: ::1[39m
+2025-03-20 22:03:35:335 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 125ms | IP: ::1[39m
+2025-03-20 22:03:35:335 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 124ms | IP: ::1[39m
+2025-03-20 22:03:37:337 [35mhttp[39m: [35mPATCH /api/staff/orders/67dba2ce4ecb2e77e84c1d29/status 404 - 2ms | IP: ::1[39m
+2025-03-20 22:03:57:357 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 138ms | IP: ::1[39m
+2025-03-20 22:03:57:357 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 144ms | IP: ::1[39m
+2025-03-20 22:03:59:359 [35mhttp[39m: [35mPUT /api/staff/orders/67dba2ce4ecb2e77e84c1d29/status 200 - 134ms | IP: ::1[39m
+2025-03-20 22:03:59:359 [35mhttp[39m: [35mGET /api/kitchen/active-orders 200 - 132ms | IP: ::1[39m
+2025-03-20 22:04:20:420 [35mhttp[39m: [35mGET /api/tables 304 - 148ms | IP: ::1[39m
+2025-03-20 22:04:20:420 [35mhttp[39m: [35mGET /api/tables 304 - 127ms | IP: ::1[39m
+2025-03-20 22:04:21:421 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 128ms | IP: ::1[39m
+2025-03-20 22:04:21:421 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 124ms | IP: ::1[39m
+2025-03-20 22:04:23:423 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 146ms | IP: ::1[39m
+2025-03-20 22:04:23:423 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 129ms | IP: ::1[39m
+2025-03-20 22:07:04:74 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 142ms | IP: ::1[39m
+2025-03-20 22:07:04:74 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 141ms | IP: ::1[39m
+2025-03-20 22:08:05:85 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 154ms | IP: ::1[39m
+2025-03-20 22:08:05:85 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 149ms | IP: ::1[39m
+2025-03-20 22:08:53:853 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 201ms | IP: ::1[39m
+2025-03-20 22:08:53:853 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 122ms | IP: ::1[39m
+2025-03-20 22:08:59:859 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 245ms | IP: ::1[39m
+2025-03-20 22:08:59:859 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 139ms | IP: ::1[39m
+2025-03-20 22:09:07:97 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 121ms | IP: ::1[39m
+2025-03-20 22:09:08:98 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 123ms | IP: ::1[39m
+2025-03-20 22:09:53:953 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 135ms | IP: ::1[39m
+2025-03-20 22:09:53:953 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 138ms | IP: ::1[39m
+2025-03-20 22:12:54:1254 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 129ms | IP: ::1[39m
+2025-03-20 22:12:54:1254 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 138ms | IP: ::1[39m
+2025-03-20 22:12:59:1259 [35mhttp[39m: [35mGET /api/tables 304 - 135ms | IP: ::1[39m
+2025-03-20 22:12:59:1259 [35mhttp[39m: [35mGET /api/tables 304 - 132ms | IP: ::1[39m
+2025-03-20 22:13:01:131 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 135ms | IP: ::1[39m
+2025-03-20 22:13:01:131 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 126ms | IP: ::1[39m
+2025-03-20 22:13:03:133 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 133ms | IP: ::1[39m
+2025-03-20 22:13:03:133 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 120ms | IP: ::1[39m
+2025-03-20 22:14:09:149 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 122ms | IP: ::1[39m
+2025-03-20 22:14:09:149 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 115ms | IP: ::1[39m
+2025-03-20 22:18:29:1829 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 699ms | IP: ::1[39m
+2025-03-20 22:18:29:1829 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 232ms | IP: ::1[39m
+2025-03-20 22:18:41:1841 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 152ms | IP: ::1[39m
+2025-03-20 22:18:41:1841 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 170ms | IP: ::1[39m
+2025-03-20 22:18:42:1842 [35mhttp[39m: [35mGET /api/tables 304 - 171ms | IP: ::1[39m
+2025-03-20 22:18:42:1842 [35mhttp[39m: [35mGET /api/tables 304 - 512ms | IP: ::1[39m
+2025-03-20 22:18:42:1842 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 183ms | IP: ::1[39m
+2025-03-20 22:18:43:1843 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 285ms | IP: ::1[39m
+2025-03-20 22:18:43:1843 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 258ms | IP: ::1[39m
+2025-03-20 22:18:43:1843 [35mhttp[39m: [35mGET /api/tables 304 - 255ms | IP: ::1[39m
+2025-03-20 22:18:43:1843 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 221ms | IP: ::1[39m
+2025-03-20 22:18:43:1843 [35mhttp[39m: [35mGET /api/tables 304 - 158ms | IP: ::1[39m
+2025-03-20 22:18:44:1844 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 467ms | IP: ::1[39m
+2025-03-20 22:18:44:1844 [35mhttp[39m: [35mGET /api/tables 304 - 797ms | IP: ::1[39m
+2025-03-20 22:18:44:1844 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 738ms | IP: ::1[39m
+2025-03-20 22:18:45:1845 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 574ms | IP: ::1[39m
+2025-03-20 22:18:45:1845 [35mhttp[39m: [35mGET /api/tables 304 - 901ms | IP: ::1[39m
+2025-03-20 22:18:45:1845 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 631ms | IP: ::1[39m
+2025-03-20 22:18:45:1845 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 542ms | IP: ::1[39m
+2025-03-20 22:18:46:1846 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 335ms | IP: ::1[39m
+2025-03-20 22:18:46:1846 [35mhttp[39m: [35mGET /api/tables 304 - 573ms | IP: ::1[39m
+2025-03-20 22:18:46:1846 [35mhttp[39m: [35mGET /api/tables 304 - 302ms | IP: ::1[39m
+2025-03-20 22:18:46:1846 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 269ms | IP: ::1[39m
+2025-03-20 22:18:47:1847 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 306ms | IP: ::1[39m
+2025-03-20 22:18:47:1847 [35mhttp[39m: [35mGET /api/tables 304 - 225ms | IP: ::1[39m
+2025-03-20 22:18:47:1847 [35mhttp[39m: [35mGET /api/tables 304 - 167ms | IP: ::1[39m
+2025-03-20 22:18:47:1847 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 137ms | IP: ::1[39m
+2025-03-20 22:18:48:1848 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 635ms | IP: ::1[39m
+2025-03-20 22:18:48:1848 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 436ms | IP: ::1[39m
+2025-03-20 22:18:48:1848 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 549ms | IP: ::1[39m
+2025-03-20 22:18:56:1856 [35mhttp[39m: [35mGET /api/staff/dashboard/stats 404 - 4ms | IP: ::1[39m
+2025-03-20 22:18:56:1856 [35mhttp[39m: [35mGET /api/staff/dashboard/stats 404 - 2ms | IP: ::1[39m
+2025-03-20 22:18:56:1856 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 444ms | IP: ::1[39m
+2025-03-20 22:18:57:1857 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 851ms | IP: ::1[39m
+2025-03-20 22:20:13:2013 [35mhttp[39m: [35mGET /api/staff/stats 404 - 2ms | IP: ::1[39m
+2025-03-20 22:20:13:2013 [35mhttp[39m: [35mGET /api/staff/stats 404 - 2ms | IP: ::1[39m
+2025-03-20 22:20:13:2013 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 612ms | IP: ::1[39m
+2025-03-20 22:20:14:2014 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 611ms | IP: ::1[39m
+2025-03-20 22:21:56:2156 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 417ms | IP: ::1[39m
+2025-03-20 22:21:56:2156 [35mhttp[39m: [35mGET /api/staff/stats 500 - 479ms | IP: ::1[39m
+2025-03-20 22:21:56:2156 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 164ms | IP: ::1[39m
+2025-03-20 22:21:56:2156 [35mhttp[39m: [35mGET /api/staff/stats 500 - 194ms | IP: ::1[39m
+2025-03-20 22:22:49:2249 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 171ms | IP: ::1[39m
+2025-03-20 22:22:49:2249 [35mhttp[39m: [35mGET /api/staff/stats 500 - 216ms | IP: ::1[39m
+2025-03-20 22:22:49:2249 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 282ms | IP: ::1[39m
+2025-03-20 22:22:49:2249 [35mhttp[39m: [35mGET /api/staff/stats 500 - 314ms | IP: ::1[39m
+2025-03-20 22:25:48:2548 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 125ms | IP: ::1[39m
+2025-03-20 22:25:48:2548 [35mhttp[39m: [35mGET /api/staff/stats 500 - 182ms | IP: ::1[39m
+2025-03-20 22:25:48:2548 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 339ms | IP: ::1[39m
+2025-03-20 22:25:48:2548 [35mhttp[39m: [35mGET /api/staff/stats 500 - 413ms | IP: ::1[39m
+2025-03-20 22:26:22:2622 [35mhttp[39m: [35mGET /api/tables 304 - 146ms | IP: ::1[39m
+2025-03-20 22:26:22:2622 [35mhttp[39m: [35mGET /api/tables 304 - 124ms | IP: ::1[39m
+2025-03-20 22:26:25:2625 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 141ms | IP: ::1[39m
+2025-03-20 22:26:25:2625 [35mhttp[39m: [35mGET /api/staff/stats 500 - 222ms | IP: ::1[39m
+2025-03-20 22:26:25:2625 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 142ms | IP: ::1[39m
+2025-03-20 22:26:25:2625 [35mhttp[39m: [35mGET /api/staff/stats 500 - 177ms | IP: ::1[39m
+2025-03-20 22:26:27:2627 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 144ms | IP: ::1[39m
+2025-03-20 22:26:27:2627 [35mhttp[39m: [35mGET /api/staff/stats 500 - 214ms | IP: ::1[39m
+2025-03-20 22:26:27:2627 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 344ms | IP: ::1[39m
+2025-03-20 22:26:27:2627 [35mhttp[39m: [35mGET /api/staff/stats 500 - 393ms | IP: ::1[39m
+2025-03-20 22:27:24:2724 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 151ms | IP: ::1[39m
+2025-03-20 22:27:24:2724 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 142ms | IP: ::1[39m
+2025-03-20 22:27:24:2724 [35mhttp[39m: [35mGET /api/staff/stats 200 - 329ms | IP: ::1[39m
+2025-03-20 22:27:24:2724 [35mhttp[39m: [35mGET /api/staff/stats 304 - 306ms | IP: ::1[39m
+2025-03-20 22:29:41:2941 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 355ms | IP: ::1[39m
+2025-03-20 22:29:42:2942 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 652ms | IP: ::1[39m
+2025-03-20 22:29:42:2942 [35mhttp[39m: [35mGET /api/staff/stats 304 - 1076ms | IP: ::1[39m
+2025-03-20 22:29:42:2942 [35mhttp[39m: [35mGET /api/staff/stats 304 - 323ms | IP: ::1[39m
+2025-03-20 22:31:04:314 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 138ms | IP: ::1[39m
+2025-03-20 22:31:04:314 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 132ms | IP: ::1[39m
+2025-03-20 22:31:05:315 [35mhttp[39m: [35mGET /api/staff/stats 304 - 313ms | IP: ::1[39m
+2025-03-20 22:31:05:315 [35mhttp[39m: [35mGET /api/staff/stats 304 - 315ms | IP: ::1[39m
+2025-03-20 22:31:33:3133 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 381ms | IP: ::1[39m
+2025-03-20 22:31:33:3133 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 133ms | IP: ::1[39m
+2025-03-20 22:31:33:3133 [35mhttp[39m: [35mGET /api/staff/stats 304 - 575ms | IP: ::1[39m
+2025-03-20 22:31:33:3133 [35mhttp[39m: [35mGET /api/staff/stats 304 - 316ms | IP: ::1[39m
+2025-03-20 22:33:25:3325 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 131ms | IP: ::1[39m
+2025-03-20 22:33:25:3325 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 123ms | IP: ::1[39m
+2025-03-20 22:33:25:3325 [35mhttp[39m: [35mGET /api/staff/stats 304 - 330ms | IP: ::1[39m
+2025-03-20 22:33:25:3325 [35mhttp[39m: [35mGET /api/staff/stats 304 - 611ms | IP: ::1[39m
+2025-03-20 22:33:27:3327 [35mhttp[39m: [35mGET /api/staff/stats 401 - 1ms | IP: ::1[39m
+2025-03-20 22:33:27:3327 [35mhttp[39m: [35mGET /api/staff/orders/active 401 - 1ms | IP: ::1[39m
+2025-03-20 22:33:27:3327 [35mhttp[39m: [35mGET /api/staff/orders/active 401 - 2ms | IP: ::1[39m
+2025-03-20 22:33:27:3327 [35mhttp[39m: [35mGET /api/staff/stats 401 - 0ms | IP: ::1[39m
+2025-03-20 22:33:45:3345 [35mhttp[39m: [35mPOST /api/auth/login 200 - 276ms | IP: ::1[39m
+2025-03-20 22:33:45:3345 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 357ms | IP: ::1[39m
+2025-03-20 22:33:46:3346 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 474ms | IP: ::1[39m
+2025-03-20 22:33:46:3346 [35mhttp[39m: [35mGET /api/staff/stats 304 - 926ms | IP: ::1[39m
+2025-03-20 22:33:47:3347 [35mhttp[39m: [35mGET /api/staff/stats 304 - 817ms | IP: ::1[39m
+2025-03-20 22:33:54:3354 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 147ms | IP: ::1[39m
+2025-03-20 22:33:55:3355 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 143ms | IP: ::1[39m
+2025-03-20 22:33:56:3356 [35mhttp[39m: [35mGET /api/tables 304 - 162ms | IP: ::1[39m
+2025-03-20 22:33:56:3356 [35mhttp[39m: [35mGET /api/tables 304 - 131ms | IP: ::1[39m
+2025-03-20 22:33:57:3357 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 177ms | IP: ::1[39m
+2025-03-20 22:33:58:3358 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 226ms | IP: ::1[39m
+2025-03-20 22:34:01:341 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 287ms | IP: ::1[39m
+2025-03-20 22:34:02:342 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 451ms | IP: ::1[39m
+2025-03-20 22:34:03:343 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 171ms | IP: ::1[39m
+2025-03-20 22:34:03:343 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 155ms | IP: ::1[39m
+2025-03-20 22:34:03:343 [35mhttp[39m: [35mGET /api/tables 304 - 147ms | IP: ::1[39m
+2025-03-20 22:34:03:343 [35mhttp[39m: [35mGET /api/tables 304 - 146ms | IP: ::1[39m
+2025-03-20 22:34:04:344 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 141ms | IP: ::1[39m
+2025-03-20 22:34:04:344 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 142ms | IP: ::1[39m
+2025-03-20 22:34:05:345 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 158ms | IP: ::1[39m
+2025-03-20 22:34:05:345 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 158ms | IP: ::1[39m
+2025-03-20 22:34:05:345 [35mhttp[39m: [35mGET /api/staff/stats 304 - 370ms | IP: ::1[39m
+2025-03-20 22:34:05:345 [35mhttp[39m: [35mGET /api/staff/stats 304 - 336ms | IP: ::1[39m
+2025-03-20 22:37:13:3713 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 126ms | IP: ::1[39m
+2025-03-20 22:37:13:3713 [35mhttp[39m: [35mGET /api/staff/stats 304 - 392ms | IP: ::1[39m
+2025-03-20 22:37:19:3719 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 523ms | IP: ::1[39m
+2025-03-20 22:37:19:3719 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 370ms | IP: ::1[39m
+2025-03-20 22:37:20:3720 [35mhttp[39m: [35mGET /api/staff/stats 304 - 1243ms | IP: ::1[39m
+2025-03-20 22:37:20:3720 [35mhttp[39m: [35mGET /api/staff/stats 304 - 796ms | IP: ::1[39m
+2025-03-20 22:37:25:3725 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 153ms | IP: ::1[39m
+2025-03-20 22:37:25:3725 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 150ms | IP: ::1[39m
+2025-03-20 22:37:26:3726 [35mhttp[39m: [35mGET /api/tables 304 - 135ms | IP: ::1[39m
+2025-03-20 22:37:27:3727 [35mhttp[39m: [35mGET /api/tables 304 - 146ms | IP: ::1[39m
+2025-03-20 22:37:28:3728 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 170ms | IP: ::1[39m
+2025-03-20 22:37:28:3728 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 149ms | IP: ::1[39m
+2025-03-20 22:37:30:3730 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 170ms | IP: ::1[39m
+2025-03-20 22:37:30:3730 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 144ms | IP: ::1[39m
+2025-03-20 22:37:34:3734 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 352ms | IP: ::1[39m
+2025-03-20 22:37:34:3734 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 153ms | IP: ::1[39m
+2025-03-20 22:37:37:3737 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 171ms | IP: ::1[39m
+2025-03-20 22:37:37:3737 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 124ms | IP: ::1[39m
+2025-03-20 22:37:38:3738 [35mhttp[39m: [35mGET /api/tables 304 - 132ms | IP: ::1[39m
+2025-03-20 22:37:38:3738 [35mhttp[39m: [35mGET /api/tables 304 - 131ms | IP: ::1[39m
+2025-03-20 22:37:38:3738 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 140ms | IP: ::1[39m
+2025-03-20 22:37:38:3738 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 130ms | IP: ::1[39m
+2025-03-20 22:37:39:3739 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 133ms | IP: ::1[39m
+2025-03-20 22:37:39:3739 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 130ms | IP: ::1[39m
+2025-03-20 22:37:39:3739 [35mhttp[39m: [35mGET /api/staff/stats 304 - 325ms | IP: ::1[39m
+2025-03-20 22:37:40:3740 [35mhttp[39m: [35mGET /api/staff/stats 304 - 330ms | IP: ::1[39m
+2025-03-20 22:40:18:4018 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 558ms | IP: ::1[39m
+2025-03-20 22:40:18:4018 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 127ms | IP: ::1[39m
+2025-03-20 22:40:18:4018 [35mhttp[39m: [35mGET /api/staff/stats 304 - 747ms | IP: ::1[39m
+2025-03-20 22:40:19:4019 [35mhttp[39m: [35mGET /api/staff/stats 304 - 297ms | IP: ::1[39m
+2025-03-20 22:42:54:4254 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 127ms | IP: ::1[39m
+2025-03-20 22:42:54:4254 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 127ms | IP: ::1[39m
+2025-03-20 22:42:54:4254 [35mhttp[39m: [35mGET /api/staff/stats 304 - 312ms | IP: ::1[39m
+2025-03-20 22:42:55:4255 [35mhttp[39m: [35mGET /api/staff/stats 304 - 321ms | IP: ::1[39m
+2025-03-20 22:42:56:4256 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 145ms | IP: ::1[39m
+2025-03-20 22:42:56:4256 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 141ms | IP: ::1[39m
+2025-03-20 22:42:57:4257 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 139ms | IP: ::1[39m
+2025-03-20 22:42:57:4257 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 128ms | IP: ::1[39m
+2025-03-20 22:42:57:4257 [35mhttp[39m: [35mGET /api/staff/stats 304 - 341ms | IP: ::1[39m
+2025-03-20 22:42:57:4257 [35mhttp[39m: [35mGET /api/staff/stats 304 - 346ms | IP: ::1[39m
+2025-03-20 22:43:01:431 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 170ms | IP: ::1[39m
+2025-03-20 22:43:01:431 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 152ms | IP: ::1[39m
+2025-03-20 22:43:10:4310 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 135ms | IP: ::1[39m
+2025-03-20 22:43:10:4310 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 122ms | IP: ::1[39m
+2025-03-20 22:43:12:4312 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 139ms | IP: ::1[39m
+2025-03-20 22:43:12:4312 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 136ms | IP: ::1[39m
+2025-03-20 22:43:51:4351 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 163ms | IP: ::1[39m
+2025-03-20 22:44:02:442 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 224ms | IP: ::1[39m
+2025-03-20 22:44:02:442 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 119ms | IP: ::1[39m
+2025-03-20 22:44:04:444 [35mhttp[39m: [35mGET /api/staff/stats 401 - 1ms | IP: ::1[39m
+2025-03-20 22:44:04:444 [35mhttp[39m: [35mGET /api/staff/stats 401 - 0ms | IP: ::1[39m
+2025-03-20 22:44:04:444 [35mhttp[39m: [35mGET /api/staff/orders/active 401 - 1ms | IP: ::1[39m
+2025-03-20 22:44:04:444 [35mhttp[39m: [35mGET /api/staff/orders/active 401 - 0ms | IP: ::1[39m
+2025-03-20 22:44:17:4417 [35mhttp[39m: [35mPOST /api/auth/login 200 - 491ms | IP: ::1[39m
+2025-03-20 22:44:17:4417 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 130ms | IP: ::1[39m
+2025-03-20 22:44:17:4417 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 120ms | IP: ::1[39m
+2025-03-20 22:44:18:4418 [35mhttp[39m: [35mGET /api/staff/stats 304 - 524ms | IP: ::1[39m
+2025-03-20 22:44:18:4418 [35mhttp[39m: [35mGET /api/staff/stats 304 - 586ms | IP: ::1[39m
+2025-03-20 22:45:14:4514 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 121ms | IP: ::1[39m
+2025-03-20 22:45:15:4515 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 119ms | IP: ::1[39m
+2025-03-20 22:45:15:4515 [35mhttp[39m: [35mGET /api/staff/stats 304 - 304ms | IP: ::1[39m
+2025-03-20 22:45:15:4515 [35mhttp[39m: [35mGET /api/staff/stats 304 - 297ms | IP: ::1[39m
+2025-03-20 22:45:16:4516 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 129ms | IP: ::1[39m
+2025-03-20 22:45:16:4516 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 115ms | IP: ::1[39m
+2025-03-20 22:45:16:4516 [35mhttp[39m: [35mGET /api/staff/stats 304 - 305ms | IP: ::1[39m
+2025-03-20 22:45:16:4516 [35mhttp[39m: [35mGET /api/staff/stats 304 - 310ms | IP: ::1[39m
+2025-03-20 22:45:17:4517 [35mhttp[39m: [35mGET /api/staff/stats 401 - 1ms | IP: ::1[39m
+2025-03-20 22:45:17:4517 [35mhttp[39m: [35mGET /api/staff/orders/active 401 - 0ms | IP: ::1[39m
+2025-03-20 22:45:17:4517 [35mhttp[39m: [35mGET /api/staff/stats 401 - 0ms | IP: ::1[39m
+2025-03-20 22:45:17:4517 [35mhttp[39m: [35mGET /api/staff/orders/active 401 - 1ms | IP: ::1[39m
+2025-03-20 22:45:29:4529 [35mhttp[39m: [35mPOST /api/auth/login 200 - 249ms | IP: ::1[39m
+2025-03-20 22:45:29:4529 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 185ms | IP: ::1[39m
+2025-03-20 22:45:29:4529 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 136ms | IP: ::1[39m
+2025-03-20 22:45:29:4529 [35mhttp[39m: [35mGET /api/staff/stats 304 - 583ms | IP: ::1[39m
+2025-03-20 22:45:30:4530 [35mhttp[39m: [35mGET /api/staff/stats 304 - 1017ms | IP: ::1[39m
+2025-03-20 22:45:35:4535 [35mhttp[39m: [35mGET /api/staff/stats 401 - 1ms | IP: ::1[39m
+2025-03-20 22:45:35:4535 [35mhttp[39m: [35mGET /api/staff/stats 401 - 1ms | IP: ::1[39m
+2025-03-20 22:45:35:4535 [35mhttp[39m: [35mGET /api/staff/orders/active 401 - 3ms | IP: ::1[39m
+2025-03-20 22:45:35:4535 [35mhttp[39m: [35mGET /api/staff/orders/active 401 - 1ms | IP: ::1[39m
+2025-03-20 22:46:43:4643 [35mhttp[39m: [35mPOST /api/auth/login 401 - 247ms | IP: ::1[39m
+2025-03-20 22:46:55:4655 [35mhttp[39m: [35mPOST /api/auth/login 200 - 254ms | IP: ::1[39m
+2025-03-20 22:46:55:4655 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 120ms | IP: ::1[39m
+2025-03-20 22:46:56:4656 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 110ms | IP: ::1[39m
+2025-03-20 22:46:56:4656 [35mhttp[39m: [35mGET /api/staff/stats 304 - 288ms | IP: ::1[39m
+2025-03-20 22:46:56:4656 [35mhttp[39m: [35mGET /api/staff/stats 304 - 808ms | IP: ::1[39m
+2025-03-20 22:54:30:5430 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 154ms | IP: ::1[39m
+2025-03-20 22:54:30:5430 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 128ms | IP: ::1[39m
+2025-03-20 22:54:30:5430 [35mhttp[39m: [35mGET /api/staff/stats 304 - 348ms | IP: ::1[39m
+2025-03-20 22:54:30:5430 [35mhttp[39m: [35mGET /api/staff/stats 304 - 330ms | IP: ::1[39m
+2025-03-20 22:54:32:5432 [35mhttp[39m: [35mGET /api/staff/stats 401 - 1ms | IP: ::1[39m
+2025-03-20 22:54:32:5432 [35mhttp[39m: [35mGET /api/staff/orders/active 401 - 1ms | IP: ::1[39m
+2025-03-20 22:54:32:5432 [35mhttp[39m: [35mGET /api/staff/stats 401 - 3ms | IP: ::1[39m
+2025-03-20 22:54:32:5432 [35mhttp[39m: [35mGET /api/staff/orders/active 401 - 0ms | IP: ::1[39m
+2025-03-20 22:54:53:5453 [35mhttp[39m: [35mPOST /api/auth/login 200 - 255ms | IP: ::1[39m
+2025-03-20 22:54:54:5454 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 195ms | IP: ::1[39m
+2025-03-20 22:54:54:5454 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 197ms | IP: ::1[39m
+2025-03-20 22:54:54:5454 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 592ms | IP: ::1[39m
+2025-03-20 22:54:54:5454 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 594ms | IP: ::1[39m
+2025-03-20 22:54:54:5454 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 824ms | IP: ::1[39m
+2025-03-20 22:54:55:5455 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 488ms | IP: ::1[39m
+2025-03-20 22:54:59:5459 [35mhttp[39m: [35mGET /api/admin/reservations?date=2025-03-20 404 - 11ms | IP: ::1[39m
+2025-03-20 22:54:59:5459 [35mhttp[39m: [35mGET /api/admin/reservations?date=2025-03-20 404 - 3ms | IP: ::1[39m
+2025-03-20 22:55:55:5555 [35mhttp[39m: [35mGET /api/reservations/all?date=2025-03-20 304 - 164ms | IP: ::1[39m
+2025-03-20 22:55:55:5555 [35mhttp[39m: [35mGET /api/reservations/all?date=2025-03-20 304 - 139ms | IP: ::1[39m
+2025-03-20 22:56:45:5645 [35mhttp[39m: [35mGET /api/reservations/all?date=2025-03-20 304 - 124ms | IP: ::1[39m
+2025-03-20 22:56:45:5645 [35mhttp[39m: [35mGET /api/reservations/all?date=2025-03-20 304 - 124ms | IP: ::1[39m
+2025-03-20 22:56:48:5648 [35mhttp[39m: [35mPATCH /api/reservations/67dbad314d5c8d0e16c0fa5d/status 200 - 207ms | IP: ::1[39m
+2025-03-20 22:56:49:5649 [35mhttp[39m: [35mGET /api/reservations/all?date=2025-03-20 200 - 143ms | IP: ::1[39m
+2025-03-20 22:56:56:5656 [35mhttp[39m: [35mGET /api/menu 304 - 72ms | IP: ::1[39m
+2025-03-20 22:56:56:5656 [35mhttp[39m: [35mGET /api/menu 304 - 69ms | IP: ::1[39m
+2025-03-20 22:56:57:5657 [35mhttp[39m: [35mGET /api/orders 200 - 140ms | IP: ::1[39m
+2025-03-20 22:56:57:5657 [35mhttp[39m: [35mGET /api/orders 200 - 135ms | IP: ::1[39m
+2025-03-20 22:56:58:5658 [35mhttp[39m: [35mGET /api/admin/users 200 - 77ms | IP: ::1[39m
+2025-03-20 22:56:58:5658 [35mhttp[39m: [35mGET /api/admin/users 200 - 73ms | IP: ::1[39m
+2025-03-20 22:57:00:570 [35mhttp[39m: [35mGET /api/reports/menu-metrics?startDate=2025-02-18&endDate=2025-03-20 200 - 314ms | IP: ::1[39m
+2025-03-20 22:57:00:570 [35mhttp[39m: [35mGET /api/reports/peak-hours?date=2025-03-20 304 - 627ms | IP: ::1[39m
+2025-03-20 22:57:00:570 [35mhttp[39m: [35mGET /api/reports/menu-metrics?startDate=2025-02-18&endDate=2025-03-20 304 - 319ms | IP: ::1[39m
+2025-03-20 22:57:00:570 [35mhttp[39m: [35mGET /api/reports/monthly?month=3&year=2025 200 - 705ms | IP: ::1[39m
+2025-03-20 22:57:00:570 [35mhttp[39m: [35mGET /api/reports/peak-hours?date=2025-03-20 304 - 336ms | IP: ::1[39m
+2025-03-20 22:57:00:570 [35mhttp[39m: [35mGET /api/reports/monthly?month=3&year=2025 200 - 429ms | IP: ::1[39m
+2025-03-20 23:05:12:512 [35mhttp[39m: [35mPOST /api/auth/login 200 - 256ms | IP: ::1[39m
+2025-03-20 23:05:12:512 [35mhttp[39m: [35mGET /api/menu 304 - 65ms | IP: ::1[39m
+2025-03-20 23:05:12:512 [35mhttp[39m: [35mGET /api/menu 304 - 67ms | IP: ::1[39m
+2025-03-20 23:05:18:518 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 88ms | IP: ::1[39m
+2025-03-20 23:05:18:518 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 68ms | IP: ::1[39m
+2025-03-20 23:05:40:540 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-03-20&guestCount=2 200 - 733ms | IP: ::1[39m
+2025-03-20 23:05:40:540 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-03-20&guestCount=2 304 - 182ms | IP: ::1[39m
+2025-03-20 23:05:52:552 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-03-20&guestCount=4 200 - 295ms | IP: ::1[39m
+2025-03-20 23:06:06:66 [35mhttp[39m: [35mPOST /api/reservations/create 500 - 9ms | IP: ::1[39m
+2025-03-20 23:06:13:613 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-03-25&guestCount=4 200 - 147ms | IP: ::1[39m
+2025-03-20 23:06:17:617 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-03-25&guestCount=4 304 - 149ms | IP: ::1[39m
+2025-03-20 23:06:25:625 [35mhttp[39m: [35mPOST /api/reservations/create 500 - 3ms | IP: ::1[39m
+2025-03-24 09:17:45:1745 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-03-24&guestCount=2 200 - 29159ms | IP: ::1[39m
+2025-03-24 09:17:45:1745 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-03-24&guestCount=2 200 - 9141ms | IP: ::1[39m
+2025-03-24 09:36:46:3646 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-03-24&guestCount=2 304 - 4229ms | IP: ::1[39m
+2025-03-24 09:36:47:3647 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-03-24&guestCount=2 304 - 183ms | IP: ::1[39m
+2025-03-24 09:54:20:5420 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-03-24&guestCount=2 304 - 359ms | IP: ::1[39m
+2025-03-24 09:54:20:5420 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-03-24&guestCount=2 304 - 183ms | IP: ::1[39m
+2025-03-24 10:07:17:717 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-03-24&guestCount=2 304 - 1341ms | IP: ::1[39m
+2025-03-24 10:07:17:717 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-03-24&guestCount=2 304 - 159ms | IP: ::1[39m
+2025-03-27 10:12:53:1253 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-03-27&guestCount=2 200 - 568ms | IP: ::1[39m
+2025-03-29 10:59:10:5910 [35mhttp[39m: [35mGET /api/menu 304 - 224ms | IP: ::1[39m
+2025-03-29 10:59:10:5910 [35mhttp[39m: [35mGET /api/menu 304 - 212ms | IP: ::1[39m
+2025-03-29 11:00:00:00 [35mhttp[39m: [35mGET /api/customer/reservations 403 - 6ms | IP: ::1[39m
+2025-03-29 11:00:00:00 [35mhttp[39m: [35mGET /api/customer/reservations 403 - 2ms | IP: ::1[39m
+2025-03-29 11:00:11:011 [35mhttp[39m: [35mGET /api/orders/user 403 - 3ms | IP: ::1[39m
+2025-03-29 11:00:11:011 [35mhttp[39m: [35mGET /api/orders/user 403 - 3ms | IP: ::1[39m
+2025-03-29 11:00:32:032 [35mhttp[39m: [35mPOST /api/auth/login 200 - 293ms | IP: ::1[39m
+2025-03-29 11:00:32:032 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 150ms | IP: ::1[39m
+2025-03-29 11:00:32:032 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 200 - 149ms | IP: ::1[39m
+2025-03-29 11:00:33:033 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 262ms | IP: ::1[39m
+2025-03-29 11:00:33:033 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 132ms | IP: ::1[39m
+2025-03-29 11:00:33:033 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 133ms | IP: ::1[39m
+2025-03-29 11:00:33:033 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 428ms | IP: ::1[39m
+2025-03-29 11:03:00:30 [35mhttp[39m: [35mPOST /api/auth/login 200 - 139ms | IP: ::1[39m
+2025-03-29 11:03:01:31 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 139ms | IP: ::1[39m
+2025-03-29 11:03:01:31 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 199ms | IP: ::1[39m
+2025-03-29 11:03:01:31 [35mhttp[39m: [35mGET /api/staff/stats 304 - 354ms | IP: ::1[39m
+2025-03-29 11:03:01:31 [35mhttp[39m: [35mGET /api/staff/stats 304 - 566ms | IP: ::1[39m
+2025-03-29 11:03:04:34 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 142ms | IP: ::1[39m
+2025-03-29 11:03:05:35 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 128ms | IP: ::1[39m
+2025-03-29 11:03:06:36 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 130ms | IP: ::1[39m
+2025-03-29 11:03:06:36 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 120ms | IP: ::1[39m
+2025-03-29 11:03:06:36 [35mhttp[39m: [35mGET /api/staff/stats 304 - 304ms | IP: ::1[39m
+2025-03-29 11:03:06:36 [35mhttp[39m: [35mGET /api/staff/stats 304 - 263ms | IP: ::1[39m
+2025-03-29 11:03:07:37 [35mhttp[39m: [35mGET /api/tables 200 - 585ms | IP: ::1[39m
+2025-03-29 11:03:07:37 [35mhttp[39m: [35mGET /api/tables 304 - 107ms | IP: ::1[39m
+2025-03-29 11:03:09:39 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 137ms | IP: ::1[39m
+2025-03-29 11:03:09:39 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 117ms | IP: ::1[39m
+2025-03-29 11:03:11:311 [35mhttp[39m: [35mGET /api/staff/stats 401 - 1ms | IP: ::1[39m
+2025-03-29 11:03:11:311 [35mhttp[39m: [35mGET /api/staff/orders/active 401 - 1ms | IP: ::1[39m
+2025-03-29 11:03:11:311 [35mhttp[39m: [35mGET /api/staff/orders/active 401 - 1ms | IP: ::1[39m
+2025-03-29 11:03:11:311 [35mhttp[39m: [35mGET /api/staff/stats 401 - 1ms | IP: ::1[39m
+2025-03-29 11:03:26:326 [35mhttp[39m: [35mPOST /api/auth/login 200 - 129ms | IP: ::1[39m
+2025-03-29 11:03:26:326 [35mhttp[39m: [35mGET /api/menu 304 - 63ms | IP: ::1[39m
+2025-03-29 11:03:26:326 [35mhttp[39m: [35mGET /api/menu 304 - 65ms | IP: ::1[39m
+2025-03-29 11:03:33:333 [35mhttp[39m: [35mGET /api/menu 304 - 74ms | IP: ::1[39m
+2025-03-29 11:03:33:333 [35mhttp[39m: [35mGET /api/menu 304 - 59ms | IP: ::1[39m
+2025-03-29 11:03:35:335 [35mhttp[39m: [35mGET /api/orders/user 200 - 133ms | IP: ::1[39m
+2025-03-29 11:03:35:335 [35mhttp[39m: [35mGET /api/orders/user 304 - 118ms | IP: ::1[39m
+2025-03-29 11:03:39:339 [35mhttp[39m: [35mGET /api/customer/reservations 200 - 68ms | IP: ::1[39m
+2025-03-29 11:03:39:339 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 64ms | IP: ::1[39m
+2025-03-29 11:03:44:344 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-03-29&guestCount=2 200 - 142ms | IP: ::1[39m
+2025-03-29 11:03:44:344 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-03-29&guestCount=2 304 - 120ms | IP: ::1[39m
+2025-03-29 11:03:57:357 [35mhttp[39m: [35mPOST /api/reservations/create 500 - 11ms | IP: ::1[39m
+2025-03-29 11:04:05:45 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-03-30&guestCount=2 200 - 132ms | IP: ::1[39m
+2025-03-29 11:04:16:416 [35mhttp[39m: [35mPOST /api/reservations/create 500 - 2ms | IP: ::1[39m
+2025-03-29 11:07:51:751 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-03-29&guestCount=2 304 - 583ms | IP: ::1[39m
+2025-03-29 11:07:51:751 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-03-29&guestCount=2 304 - 117ms | IP: ::1[39m
+2025-03-29 11:07:56:756 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-03-30&guestCount=2 304 - 123ms | IP: ::1[39m
+2025-03-29 11:09:22:922 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-03-29&guestCount=2 304 - 114ms | IP: ::1[39m
+2025-03-29 11:09:23:923 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-03-29&guestCount=2 304 - 128ms | IP: ::1[39m
+2025-03-29 11:17:06:176 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-03-29&guestCount=2 304 - 124ms | IP: ::1[39m
+2025-03-29 11:17:12:1712 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-03-29&guestCount=2 304 - 117ms | IP: ::1[39m
+2025-03-29 11:17:13:1713 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-03-29&guestCount=2 304 - 109ms | IP: ::1[39m
+2025-03-29 11:17:19:1719 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-03-30&guestCount=2 304 - 108ms | IP: ::1[39m
+2025-03-29 11:18:03:183 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-03-29&guestCount=2 304 - 141ms | IP: ::1[39m
+2025-03-29 11:19:25:1925 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-03-29&guestCount=2 304 - 391ms | IP: ::1[39m
+2025-03-29 11:19:25:1925 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-03-29&guestCount=2 304 - 115ms | IP: ::1[39m
+2025-03-29 11:21:34:2134 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-03-29&guestCount=2 304 - 294ms | IP: ::1[39m
+2025-03-29 11:21:34:2134 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-03-29&guestCount=2 304 - 117ms | IP: ::1[39m
+2025-03-29 15:09:08:98 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-03-29&guestCount=2 304 - 536ms | IP: ::1[39m
+2025-03-29 15:09:09:99 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-03-29&guestCount=2 304 - 111ms | IP: ::1[39m
+2025-03-29 19:00:51:051 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-03-29&guestCount=2 500 - 30009ms | IP: ::1[39m
+2025-03-29 19:01:12:112 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-03-29&guestCount=2 500 - 30012ms | IP: ::1[39m
+2025-03-31 10:19:43:1943 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-03-31&guestCount=2 200 - 812ms | IP: ::1[39m
+2025-03-31 10:19:44:1944 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-03-31&guestCount=2 304 - 106ms | IP: ::1[39m
+2025-03-31 10:51:49:5149 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-03-31&guestCount=2 200 - 373ms | IP: ::1[39m
+2025-04-09 17:51:00:510 [35mhttp[39m: [35mGET /api/menu 200 - 123ms | IP: ::1[39m
+2025-04-09 17:51:00:510 [35mhttp[39m: [35mGET /api/menu 304 - 123ms | IP: ::1[39m
+2025-04-09 17:51:40:5140 [35mhttp[39m: [35mGET /api/customer/reservations 403 - 10ms | IP: ::1[39m
+2025-04-09 17:51:40:5140 [35mhttp[39m: [35mGET /api/customer/reservations 403 - 4ms | IP: ::1[39m
+2025-04-09 17:51:43:5143 [35mhttp[39m: [35mGET /api/customer/reservations 403 - 5ms | IP: ::1[39m
+2025-04-09 17:51:51:5151 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-04-09&guestCount=2 200 - 376ms | IP: ::1[39m
+2025-04-09 17:51:52:5152 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-04-09&guestCount=2 304 - 240ms | IP: ::1[39m
+2025-04-09 17:52:24:5224 [35mhttp[39m: [35mPOST /api/auth/login 401 - 290ms | IP: ::1[39m
+2025-04-09 17:52:51:5251 [35mhttp[39m: [35mPOST /api/auth/login 200 - 153ms | IP: ::1[39m
+2025-04-09 17:52:51:5251 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 340ms | IP: ::1[39m
+2025-04-09 17:52:51:5251 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 200 - 340ms | IP: ::1[39m
+2025-04-09 17:52:51:5251 [35mhttp[39m: [35mGET /api/admin/analytics 200 - 472ms | IP: ::1[39m
+2025-04-09 17:52:51:5251 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 211ms | IP: ::1[39m
+2025-04-09 17:52:51:5251 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 211ms | IP: ::1[39m
+2025-04-09 17:52:52:5252 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 355ms | IP: ::1[39m
+2025-04-09 17:53:15:5315 [35mhttp[39m: [35mGET /api/menu 304 - 82ms | IP: ::1[39m
+2025-04-09 17:53:15:5315 [35mhttp[39m: [35mGET /api/menu 304 - 69ms | IP: ::1[39m
+2025-04-09 17:53:27:5327 [35mhttp[39m: [35mGET /api/orders 200 - 751ms | IP: ::1[39m
+2025-04-09 17:53:27:5327 [35mhttp[39m: [35mGET /api/orders 200 - 175ms | IP: ::1[39m
+2025-04-09 17:53:40:5340 [35mhttp[39m: [35mGET /api/reservations/all?date=2025-04-09 200 - 886ms | IP: ::1[39m
+2025-04-09 17:53:40:5340 [35mhttp[39m: [35mGET /api/reservations/all?date=2025-04-09 304 - 158ms | IP: ::1[39m
+2025-04-09 17:53:50:5350 [35mhttp[39m: [35mGET /api/admin/users 200 - 167ms | IP: ::1[39m
+2025-04-09 17:53:51:5351 [35mhttp[39m: [35mGET /api/admin/users 200 - 890ms | IP: ::1[39m
+2025-04-09 17:54:08:548 [35mhttp[39m: [35mGET /api/reports/menu-metrics?startDate=2025-03-10&endDate=2025-04-09 200 - 1340ms | IP: ::1[39m
+2025-04-09 17:54:08:548 [35mhttp[39m: [35mGET /api/reports/peak-hours?date=2025-04-09 200 - 1651ms | IP: ::1[39m
+2025-04-09 17:54:08:548 [35mhttp[39m: [35mGET /api/reports/menu-metrics?startDate=2025-03-10&endDate=2025-04-09 304 - 312ms | IP: ::1[39m
+2025-04-09 17:54:08:548 [35mhttp[39m: [35mGET /api/reports/monthly?month=4&year=2025 200 - 1740ms | IP: ::1[39m
+2025-04-09 17:54:08:548 [35mhttp[39m: [35mGET /api/reports/peak-hours?date=2025-04-09 304 - 171ms | IP: ::1[39m
+2025-04-09 17:54:08:548 [35mhttp[39m: [35mGET /api/reports/monthly?month=4&year=2025 200 - 274ms | IP: ::1[39m
+2025-04-09 17:54:53:5453 [35mhttp[39m: [35mPOST /api/auth/login 200 - 203ms | IP: ::1[39m
+2025-04-09 17:54:53:5453 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 167ms | IP: ::1[39m
+2025-04-09 17:54:54:5454 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 154ms | IP: ::1[39m
+2025-04-09 17:54:54:5454 [35mhttp[39m: [35mGET /api/staff/stats 200 - 429ms | IP: ::1[39m
+2025-04-09 17:54:54:5454 [35mhttp[39m: [35mGET /api/staff/stats 304 - 490ms | IP: ::1[39m
+2025-04-09 17:55:10:5510 [35mhttp[39m: [35mGET /api/kitchen/active-orders 200 - 533ms | IP: ::1[39m
+2025-04-09 17:55:10:5510 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 208ms | IP: ::1[39m
+2025-04-09 17:55:17:5517 [35mhttp[39m: [35mGET /api/tables 200 - 161ms | IP: ::1[39m
+2025-04-09 17:55:17:5517 [35mhttp[39m: [35mGET /api/tables 304 - 155ms | IP: ::1[39m
+2025-04-09 17:55:26:5526 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 150ms | IP: ::1[39m
+2025-04-09 17:55:26:5526 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 158ms | IP: ::1[39m
+2025-04-09 17:58:30:5830 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 273ms | IP: ::1[39m
+2025-04-09 17:58:30:5830 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 416ms | IP: ::1[39m
+2025-04-10 18:55:32:5532 [35mhttp[39m: [35mGET /api/staff/stats 401 - 25ms | IP: ::1[39m
+2025-04-10 18:55:32:5532 [35mhttp[39m: [35mGET /api/staff/stats 401 - 1ms | IP: ::1[39m
+2025-04-10 18:55:32:5532 [35mhttp[39m: [35mGET /api/staff/orders/active 401 - 1ms | IP: ::1[39m
+2025-04-10 18:55:43:5543 [35mhttp[39m: [35mPOST /api/auth/login 200 - 2176ms | IP: ::1[39m
+2025-04-10 18:55:43:5543 [35mhttp[39m: [35mGET /api/menu 304 - 309ms | IP: ::1[39m
+2025-04-10 18:55:43:5543 [35mhttp[39m: [35mGET /api/menu 304 - 166ms | IP: ::1[39m
+2025-04-10 19:00:18:018 [35mhttp[39m: [35mGET /api/menu 304 - 1754ms | IP: ::1[39m
+2025-04-10 19:00:18:018 [35mhttp[39m: [35mGET /api/menu 304 - 88ms | IP: ::1[39m
+2025-04-10 19:55:52:5552 [35mhttp[39m: [35mGET /api/customer/reservations 200 - 168ms | IP: ::1[39m
+2025-04-10 19:55:52:5552 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 75ms | IP: ::1[39m
+2025-04-10 19:56:07:567 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-04-10&guestCount=2 200 - 331ms | IP: ::1[39m
+2025-04-10 19:56:07:567 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-04-10&guestCount=2 304 - 534ms | IP: ::1[39m
+2025-04-10 19:56:10:5610 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-04-11&guestCount=2 200 - 475ms | IP: ::1[39m
+2025-04-10 19:59:33:5933 [35mhttp[39m: [35mGET /api/reservations/all 403 - 32ms | IP: ::1[39m
+2025-04-10 19:59:33:5933 [35mhttp[39m: [35mGET /api/reservations/all 403 - 3ms | IP: ::1[39m
+2025-04-10 20:04:36:436 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-04-10&guestCount=2 304 - 571ms | IP: ::1[39m
+2025-04-10 20:04:36:436 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-04-10&guestCount=2 304 - 533ms | IP: ::1[39m
+2025-04-10 20:04:40:440 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-04-11&guestCount=2 304 - 539ms | IP: ::1[39m
+2025-05-06 16:34:54:3454 [35mhttp[39m: [35mPOST /api/auth/login 401 - 154ms | IP: ::1[39m
+2025-05-06 16:35:15:3515 [35mhttp[39m: [35mPOST /api/auth/login 401 - 118ms | IP: ::1[39m
+2025-05-06 16:35:42:3542 [35mhttp[39m: [35mPOST /api/auth/login 200 - 338ms | IP: ::1[39m
+2025-05-06 16:35:42:3542 [35mhttp[39m: [35mGET /api/admin/analytics 200 - 250ms | IP: ::1[39m
+2025-05-06 16:35:42:3542 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 200 - 346ms | IP: ::1[39m
+2025-05-06 16:35:42:3542 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 362ms | IP: ::1[39m
+2025-05-06 16:35:42:3542 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 210ms | IP: ::1[39m
+2025-05-06 16:35:42:3542 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 114ms | IP: ::1[39m
+2025-05-06 16:35:43:3543 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 216ms | IP: ::1[39m
+2025-05-06 16:35:52:3552 [35mhttp[39m: [35mGET /api/reports/menu-metrics?startDate=2025-04-06&endDate=2025-05-06 200 - 311ms | IP: ::1[39m
+2025-05-06 16:35:52:3552 [35mhttp[39m: [35mGET /api/reports/peak-hours?date=2025-05-06 200 - 358ms | IP: ::1[39m
+2025-05-06 16:35:52:3552 [35mhttp[39m: [35mGET /api/reports/menu-metrics?startDate=2025-04-06&endDate=2025-05-06 200 - 52ms | IP: ::1[39m
+2025-05-06 16:35:52:3552 [35mhttp[39m: [35mGET /api/reports/peak-hours?date=2025-05-06 304 - 98ms | IP: ::1[39m
+2025-05-06 16:35:53:3553 [35mhttp[39m: [35mGET /api/reports/monthly?month=5&year=2025 200 - 928ms | IP: ::1[39m
+2025-05-06 16:35:53:3553 [35mhttp[39m: [35mGET /api/reports/monthly?month=5&year=2025 200 - 160ms | IP: ::1[39m
+2025-05-06 16:36:20:3620 [35mhttp[39m: [35mPOST /api/auth/login 200 - 414ms | IP: ::1[39m
+2025-05-06 16:36:20:3620 [35mhttp[39m: [35mGET /api/menu 200 - 63ms | IP: ::1[39m
+2025-05-06 16:36:20:3620 [35mhttp[39m: [35mGET /api/menu 304 - 77ms | IP: ::1[39m
+2025-05-06 16:37:42:3742 [32minfo[39m: [32mNew order created: 6819ed7e2ce8552626876298 by user 67dba2514ecb2e77e84c1d22[39m
+2025-05-06 16:37:42:3742 [35mhttp[39m: [35mPOST /api/orders 201 - 450ms | IP: ::1[39m
+2025-05-06 16:37:47:3747 [35mhttp[39m: [35mGET /api/orders/user 200 - 512ms | IP: ::1[39m
+2025-05-06 16:37:47:3747 [35mhttp[39m: [35mGET /api/orders/user 304 - 338ms | IP: ::1[39m
+2025-05-06 16:38:06:386 [35mhttp[39m: [35mGET /api/menu 304 - 311ms | IP: ::1[39m
+2025-05-06 16:38:06:386 [35mhttp[39m: [35mGET /api/menu 304 - 346ms | IP: ::1[39m
+2025-05-06 16:38:35:3835 [35mhttp[39m: [35mGET /api/customer/reservations 200 - 294ms | IP: ::1[39m
+2025-05-06 16:38:35:3835 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 61ms | IP: ::1[39m
+2025-05-06 16:38:36:3836 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-05-06&guestCount=2 200 - 126ms | IP: ::1[39m
+2025-05-06 16:38:36:3836 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-05-06&guestCount=2 304 - 109ms | IP: ::1[39m
+2025-05-06 17:00:59:059 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-05-06&guestCount=2 304 - 322ms | IP: ::1[39m
+2025-05-06 17:00:59:059 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-05-06&guestCount=2 304 - 107ms | IP: ::1[39m
+2025-05-06 17:01:03:13 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-05-07&guestCount=2 200 - 112ms | IP: ::1[39m
+2025-05-06 17:09:59:959 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-05-06&guestCount=2 304 - 273ms | IP: ::1[39m
+2025-05-06 17:10:20:1020 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 376ms | IP: ::1[39m
+2025-05-06 17:10:20:1020 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 59ms | IP: ::1[39m
+2025-05-06 17:10:22:1022 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 52ms | IP: ::1[39m
+2025-05-06 17:10:22:1022 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 58ms | IP: ::1[39m
+2025-05-06 17:11:08:118 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 245ms | IP: ::1[39m
+2025-05-06 17:11:08:118 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 56ms | IP: ::1[39m
+2025-05-06 17:11:11:1111 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-05-06&guestCount=2 304 - 536ms | IP: ::1[39m
+2025-05-06 17:11:11:1111 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-05-06&guestCount=2 304 - 113ms | IP: ::1[39m
+2025-05-06 17:11:16:1116 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-05-07&guestCount=2 304 - 406ms | IP: ::1[39m
+2025-05-06 17:11:35:1135 [35mhttp[39m: [35mPOST /api/reservations/create 201 - 2923ms | IP: ::1[39m
+2025-05-06 17:12:36:1236 [35mhttp[39m: [35mGET /api/customer/reservations 200 - 329ms | IP: ::1[39m
+2025-05-06 17:12:37:1237 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 277ms | IP: ::1[39m
+2025-05-06 17:13:36:1336 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 368ms | IP: ::1[39m
+2025-05-06 17:13:40:1340 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 286ms | IP: ::1[39m
+2025-05-06 17:13:43:1343 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 60ms | IP: ::1[39m
+2025-05-06 17:13:43:1343 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 60ms | IP: ::1[39m
+2025-05-06 17:17:09:179 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 72ms | IP: ::1[39m
+2025-05-06 17:17:09:179 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 56ms | IP: ::1[39m
+2025-05-06 17:17:11:1711 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 57ms | IP: ::1[39m
+2025-05-06 17:17:11:1711 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 58ms | IP: ::1[39m
+2025-05-06 17:17:12:1712 [35mhttp[39m: [35mGET /api/reservations/6819f56d2339e8ecab5621ef 500 - 1ms | IP: ::1[39m
+2025-05-06 17:17:12:1712 [35mhttp[39m: [35mGET /api/reservations/6819f56d2339e8ecab5621ef 500 - 2ms | IP: ::1[39m
+2025-05-06 17:17:21:1721 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 360ms | IP: ::1[39m
+2025-05-06 17:17:21:1721 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 58ms | IP: ::1[39m
+2025-05-06 17:17:24:1724 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 269ms | IP: ::1[39m
+2025-05-06 17:17:24:1724 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 54ms | IP: ::1[39m
+2025-05-06 17:17:41:1741 [35mhttp[39m: [35mGET /api/reservations/6819f56d2339e8ecab5621ef 500 - 1ms | IP: ::1[39m
+2025-05-06 17:17:41:1741 [35mhttp[39m: [35mGET /api/reservations/6819f56d2339e8ecab5621ef 500 - 1ms | IP: ::1[39m
+2025-05-06 17:18:44:1844 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 63ms | IP: ::1[39m
+2025-05-06 17:18:44:1844 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 50ms | IP: ::1[39m
+2025-05-06 17:18:45:1845 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 62ms | IP: ::1[39m
+2025-05-06 17:18:45:1845 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 59ms | IP: ::1[39m
+2025-05-06 17:18:47:1847 [35mhttp[39m: [35mGET /api/reservations/6819f56d2339e8ecab5621ef 200 - 141ms | IP: ::1[39m
+2025-05-06 17:18:47:1847 [35mhttp[39m: [35mGET /api/reservations/6819f56d2339e8ecab5621ef 304 - 107ms | IP: ::1[39m
+2025-05-06 17:18:58:1858 [35mhttp[39m: [35mGET /api/menu 304 - 281ms | IP: ::1[39m
+2025-05-06 17:18:58:1858 [35mhttp[39m: [35mGET /api/menu 304 - 72ms | IP: ::1[39m
+2025-05-06 17:39:29:3929 [35mhttp[39m: [35mGET /api/menu 304 - 163ms | IP: ::1[39m
+2025-05-06 17:39:29:3929 [35mhttp[39m: [35mGET /api/menu 304 - 58ms | IP: ::1[39m
+2025-05-06 17:44:21:4421 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 329ms | IP: ::1[39m
+2025-05-06 17:44:21:4421 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 59ms | IP: ::1[39m
+2025-05-06 17:44:34:4434 [35mhttp[39m: [35mGET /api/reservations/6819f56d2339e8ecab5621ef 304 - 374ms | IP: ::1[39m
+2025-05-06 17:44:34:4434 [35mhttp[39m: [35mGET /api/reservations/6819f56d2339e8ecab5621ef 304 - 109ms | IP: ::1[39m
+2025-05-06 17:44:43:4443 [35mhttp[39m: [35mGET /api/menu 304 - 73ms | IP: ::1[39m
+2025-05-06 17:44:43:4443 [35mhttp[39m: [35mGET /api/menu 304 - 58ms | IP: ::1[39m
+2025-05-06 17:45:05:455 [35mhttp[39m: [35mGET /api/orders/user 304 - 133ms | IP: ::1[39m
+2025-05-06 17:45:05:455 [35mhttp[39m: [35mGET /api/orders/user 304 - 332ms | IP: ::1[39m
+2025-05-06 17:45:28:4528 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 263ms | IP: ::1[39m
+2025-05-06 17:45:28:4528 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 242ms | IP: ::1[39m
+2025-05-06 17:46:12:4612 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-05-06&guestCount=2 304 - 181ms | IP: ::1[39m
+2025-05-06 17:46:12:4612 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-05-06&guestCount=2 304 - 121ms | IP: ::1[39m
+2025-05-06 17:47:35:4735 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-05-06&guestCount=4 200 - 129ms | IP: ::1[39m
+2025-05-06 17:48:01:481 [35mhttp[39m: [35mPOST /api/reservations/create 201 - 2290ms | IP: ::1[39m
+2025-05-06 17:51:00:510 [35mhttp[39m: [35mGET /api/customer/reservations 200 - 84ms | IP: ::1[39m
+2025-05-06 17:51:00:510 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 59ms | IP: ::1[39m
+2025-05-06 17:51:21:5121 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 75ms | IP: ::1[39m
+2025-05-06 17:51:21:5121 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 62ms | IP: ::1[39m
+2025-05-06 17:51:23:5123 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-05-06&guestCount=2 200 - 196ms | IP: ::1[39m
+2025-05-06 17:51:23:5123 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-05-06&guestCount=2 304 - 166ms | IP: ::1[39m
+2025-05-06 17:51:29:5129 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-05-09&guestCount=2 200 - 196ms | IP: ::1[39m
+2025-05-06 17:51:49:5149 [35mhttp[39m: [35mPOST /api/reservations/create 201 - 5507ms | IP: ::1[39m
+2025-05-06 18:00:34:034 [35mhttp[39m: [35mGET /api/reservations/6819fed8f3cd8ba129978ea2 200 - 416ms | IP: ::1[39m
+2025-05-06 18:00:34:034 [35mhttp[39m: [35mPOST /api/payment/create-payment-intent 404 - 8ms | IP: ::1[39m
+2025-05-06 18:00:34:034 [35mhttp[39m: [35mGET /api/reservations/6819fed8f3cd8ba129978ea2 304 - 324ms | IP: ::1[39m
+2025-05-06 18:00:34:034 [35mhttp[39m: [35mPOST /api/payment/create-payment-intent 404 - 1ms | IP: ::1[39m
+2025-05-06 18:00:43:043 [35mhttp[39m: [35mGET /api/reservations/6819fed8f3cd8ba129978ea2 304 - 617ms | IP: ::1[39m
+2025-05-06 18:00:43:043 [35mhttp[39m: [35mPOST /api/payment/create-payment-intent 404 - 1ms | IP: ::1[39m
+2025-05-06 18:00:44:044 [35mhttp[39m: [35mGET /api/reservations/6819fed8f3cd8ba129978ea2 304 - 122ms | IP: ::1[39m
+2025-05-06 18:00:44:044 [35mhttp[39m: [35mPOST /api/payment/create-payment-intent 404 - 1ms | IP: ::1[39m
+2025-05-06 18:07:32:732 [35mhttp[39m: [35mGET /api/reservations/6819fed8f3cd8ba129978ea2 304 - 462ms | IP: ::1[39m
+2025-05-06 18:07:32:732 [35mhttp[39m: [35mPOST /api/payment/create-payment-intent 404 - 1ms | IP: ::1[39m
+2025-05-06 18:07:33:733 [35mhttp[39m: [35mGET /api/reservations/6819fed8f3cd8ba129978ea2 304 - 495ms | IP: ::1[39m
+2025-05-06 18:07:33:733 [35mhttp[39m: [35mPOST /api/payment/create-payment-intent 404 - 1ms | IP: ::1[39m
+2025-05-06 18:14:12:1412 [35mhttp[39m: [35mGET /api/reservations/6819fed8f3cd8ba129978ea2 304 - 515ms | IP: ::1[39m
+2025-05-06 18:14:12:1412 [35mhttp[39m: [35mPOST /api/payment/create-payment-intent 404 - 2ms | IP: ::1[39m
+2025-05-06 18:14:13:1413 [35mhttp[39m: [35mGET /api/reservations/6819fed8f3cd8ba129978ea2 304 - 465ms | IP: ::1[39m
+2025-05-06 18:14:13:1413 [35mhttp[39m: [35mPOST /api/payment/create-payment-intent 404 - 1ms | IP: ::1[39m
+2025-05-06 18:14:27:1427 [35mhttp[39m: [35mGET /api/reservations/6819fed8f3cd8ba129978ea2 304 - 448ms | IP: ::1[39m
+2025-05-06 18:14:27:1427 [35mhttp[39m: [35mPOST /api/payment/create-payment-intent 404 - 1ms | IP: ::1[39m
+2025-05-06 18:14:28:1428 [35mhttp[39m: [35mGET /api/reservations/6819fed8f3cd8ba129978ea2 304 - 546ms | IP: ::1[39m
+2025-05-06 18:14:28:1428 [35mhttp[39m: [35mPOST /api/payment/create-payment-intent 404 - 1ms | IP: ::1[39m
+2025-05-06 18:19:30:1930 [35mhttp[39m: [35mGET /api/reservations/6819fed8f3cd8ba129978ea2 500 - 30034ms | IP: ::1[39m
+2025-05-06 18:19:50:1950 [35mhttp[39m: [35mGET /api/reservations/6819fed8f3cd8ba129978ea2 500 - 30011ms | IP: ::1[39m
+2025-05-06 18:20:51:2051 [35mhttp[39m: [35mGET /api/reservations/6819fed8f3cd8ba129978ea2 500 - 30018ms | IP: ::1[39m
+2025-05-06 18:20:55:2055 [35mhttp[39m: [35mGET /api/reservations/6819fed8f3cd8ba129978ea2 200 - 13912ms | IP: ::1[39m
+2025-05-06 18:20:57:2057 [35mhttp[39m: [35mPOST /api/payment/create-payment-intent 404 - 4ms | IP: ::1[39m
+2025-05-06 18:21:35:2135 [35mhttp[39m: [35mGET /api/reservations/6819fed8f3cd8ba129978ea2 200 - 279ms | IP: ::1[39m
+2025-05-06 18:21:35:2135 [35mhttp[39m: [35mPOST /api/payment/create-payment-intent 404 - 4ms | IP: ::1[39m
+2025-05-06 18:21:35:2135 [35mhttp[39m: [35mGET /api/reservations/6819fed8f3cd8ba129978ea2 304 - 337ms | IP: ::1[39m
+2025-05-06 18:21:35:2135 [35mhttp[39m: [35mPOST /api/payment/create-payment-intent 404 - 1ms | IP: ::1[39m
+2025-05-06 18:54:56:5456 [35mhttp[39m: [35mGET /api/menu 304 - 209ms | IP: ::1[39m
+2025-05-06 18:54:57:5457 [35mhttp[39m: [35mGET /api/menu 304 - 66ms | IP: ::1[39m
+2025-05-06 18:57:04:574 [35mhttp[39m: [35mGET /api/menu 304 - 274ms | IP: ::1[39m
+2025-05-06 18:57:04:574 [35mhttp[39m: [35mGET /api/menu 304 - 187ms | IP: ::1[39m
+2025-05-06 18:57:10:5710 [35mhttp[39m: [35mGET /api/orders/user 304 - 449ms | IP: ::1[39m
+2025-05-06 18:57:10:5710 [35mhttp[39m: [35mGET /api/orders/user 304 - 526ms | IP: ::1[39m
+2025-05-06 18:57:12:5712 [35mhttp[39m: [35mGET /api/customer/reservations 200 - 82ms | IP: ::1[39m
+2025-05-06 18:57:12:5712 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 56ms | IP: ::1[39m
+2025-05-06 18:57:16:5716 [35mhttp[39m: [35mGET /api/menu 304 - 278ms | IP: ::1[39m
+2025-05-06 18:57:16:5716 [35mhttp[39m: [35mGET /api/menu 304 - 256ms | IP: ::1[39m
+2025-05-06 19:00:57:057 [35mhttp[39m: [35mGET /api/menu 304 - 77ms | IP: ::1[39m
+2025-05-06 19:00:57:057 [35mhttp[39m: [35mGET /api/menu 304 - 51ms | IP: ::1[39m
+2025-05-06 19:01:03:13 [35mhttp[39m: [35mGET /api/menu 304 - 77ms | IP: ::1[39m
+2025-05-06 19:01:03:13 [35mhttp[39m: [35mGET /api/menu 304 - 59ms | IP: ::1[39m
+2025-05-06 19:01:39:139 [35mhttp[39m: [35mGET /api/menu 304 - 83ms | IP: ::1[39m
+2025-05-06 19:01:39:139 [35mhttp[39m: [35mGET /api/menu 304 - 59ms | IP: ::1[39m
+2025-05-06 19:05:18:518 [35mhttp[39m: [35mGET /api/menu 304 - 187ms | IP: ::1[39m
+2025-05-06 19:05:36:536 [35mhttp[39m: [35mGET /api/menu 304 - 237ms | IP: ::1[39m
+2025-05-06 19:05:36:536 [35mhttp[39m: [35mGET /api/menu 304 - 269ms | IP: ::1[39m
+2025-05-06 19:29:26:2926 [35mhttp[39m: [35mGET /api/menu 304 - 313ms | IP: ::1[39m
+2025-05-06 19:29:26:2926 [35mhttp[39m: [35mGET /api/menu 304 - 191ms | IP: ::1[39m
+2025-05-06 19:45:05:455 [35mhttp[39m: [35mGET /api/menu 304 - 88ms | IP: ::1[39m
+2025-05-06 19:45:05:455 [35mhttp[39m: [35mGET /api/menu 304 - 215ms | IP: ::1[39m
+2025-05-06 19:50:08:508 [35mhttp[39m: [35mGET /api/menu 304 - 222ms | IP: ::1[39m
+2025-05-06 19:50:08:508 [35mhttp[39m: [35mGET /api/menu 304 - 216ms | IP: ::1[39m
+2025-05-06 19:50:30:5030 [35mhttp[39m: [35mGET /api/menu 304 - 64ms | IP: ::1[39m
+2025-05-06 19:50:31:5031 [35mhttp[39m: [35mGET /api/menu 304 - 232ms | IP: ::1[39m
+2025-05-06 19:51:29:5129 [35mhttp[39m: [35mGET /api/menu 304 - 65ms | IP: ::1[39m
+2025-05-06 19:51:29:5129 [35mhttp[39m: [35mGET /api/menu 304 - 252ms | IP: ::1[39m
+2025-05-06 19:53:02:532 [35mhttp[39m: [35mGET /api/menu 304 - 148ms | IP: ::1[39m
+2025-05-06 19:53:02:532 [35mhttp[39m: [35mGET /api/menu 304 - 53ms | IP: ::1[39m
+2025-05-06 19:56:39:5639 [35mhttp[39m: [35mGET /api/menu 304 - 63ms | IP: ::1[39m
+2025-05-06 19:56:39:5639 [35mhttp[39m: [35mGET /api/menu 304 - 63ms | IP: ::1[39m
+2025-05-06 20:03:03:33 [35mhttp[39m: [35mGET /api/menu 304 - 860ms | IP: ::1[39m
+2025-05-06 20:03:03:33 [35mhttp[39m: [35mGET /api/menu 304 - 51ms | IP: ::1[39m
+2025-05-06 20:06:57:657 [35mhttp[39m: [35mGET /api/menu 304 - 63ms | IP: ::1[39m
+2025-05-06 20:06:57:657 [35mhttp[39m: [35mGET /api/menu 304 - 55ms | IP: ::1[39m
+2025-05-06 20:07:25:725 [35mhttp[39m: [35mGET /api/menu 304 - 65ms | IP: ::1[39m
+2025-05-06 20:07:25:725 [35mhttp[39m: [35mGET /api/menu 304 - 63ms | IP: ::1[39m
+2025-05-06 20:08:18:818 [35mhttp[39m: [35mGET /api/menu 304 - 56ms | IP: ::1[39m
+2025-05-06 20:08:18:818 [35mhttp[39m: [35mGET /api/menu 304 - 61ms | IP: ::1[39m
+2025-05-06 20:27:56:2756 [35mhttp[39m: [35mGET /api/menu 304 - 80ms | IP: ::1[39m
+2025-05-06 20:27:56:2756 [35mhttp[39m: [35mGET /api/menu 304 - 55ms | IP: ::1[39m
+2025-05-06 20:38:02:382 [35mhttp[39m: [35mGET /api/menu 304 - 249ms | IP: ::1[39m
+2025-05-06 20:38:02:382 [35mhttp[39m: [35mGET /api/menu 304 - 66ms | IP: ::1[39m
+2025-05-06 20:42:21:4221 [35mhttp[39m: [35mGET /api/menu 304 - 68ms | IP: ::1[39m
+2025-05-06 20:42:21:4221 [35mhttp[39m: [35mGET /api/menu 304 - 75ms | IP: ::1[39m
+2025-05-11 11:59:52:5952 [35mhttp[39m: [35mGET /api/menu 200 - 142ms | IP: ::1[39m
+2025-05-11 11:59:52:5952 [35mhttp[39m: [35mGET /api/menu 304 - 60ms | IP: ::1[39m
+2025-05-11 12:08:16:816 [35mhttp[39m: [35mGET /api/menu 304 - 198ms | IP: ::1[39m
+2025-05-11 12:08:16:816 [35mhttp[39m: [35mGET /api/menu 304 - 297ms | IP: ::1[39m
+2025-05-11 12:09:45:945 [35mhttp[39m: [35mGET /api/menu 304 - 57ms | IP: ::1[39m
+2025-05-11 12:09:45:945 [35mhttp[39m: [35mGET /api/menu 304 - 222ms | IP: ::1[39m
+2025-05-11 12:10:26:1026 [35mhttp[39m: [35mGET /api/menu 304 - 261ms | IP: ::1[39m
+2025-05-11 12:10:27:1027 [35mhttp[39m: [35mGET /api/menu 304 - 289ms | IP: ::1[39m
+2025-05-11 12:13:56:1356 [35mhttp[39m: [35mGET /api/menu 304 - 62ms | IP: ::1[39m
+2025-05-11 12:13:56:1356 [35mhttp[39m: [35mGET /api/menu 304 - 57ms | IP: ::1[39m
+2025-05-11 12:15:27:1527 [35mhttp[39m: [35mGET /api/menu 304 - 61ms | IP: ::1[39m
+2025-05-11 12:15:27:1527 [35mhttp[39m: [35mGET /api/menu 304 - 54ms | IP: ::1[39m
+2025-05-11 12:15:56:1556 [35mhttp[39m: [35mGET /api/menu 304 - 58ms | IP: ::1[39m
+2025-05-11 12:15:56:1556 [35mhttp[39m: [35mGET /api/menu 304 - 50ms | IP: ::1[39m
+2025-05-11 12:17:10:1710 [35mhttp[39m: [35mGET /api/menu 304 - 155ms | IP: ::1[39m
+2025-05-11 12:17:10:1710 [35mhttp[39m: [35mGET /api/menu 304 - 249ms | IP: ::1[39m
+2025-05-11 12:18:43:1843 [35mhttp[39m: [35mGET /api/menu 304 - 63ms | IP: ::1[39m
+2025-05-11 12:18:43:1843 [35mhttp[39m: [35mGET /api/menu 304 - 60ms | IP: ::1[39m
+2025-05-11 12:20:00:200 [35mhttp[39m: [35mGET /api/menu 304 - 257ms | IP: ::1[39m
+2025-05-11 12:20:00:200 [35mhttp[39m: [35mGET /api/menu 304 - 61ms | IP: ::1[39m
+2025-05-11 12:24:04:244 [35mhttp[39m: [35mGET /api/menu 304 - 109ms | IP: ::1[39m
+2025-05-11 12:24:04:244 [35mhttp[39m: [35mGET /api/menu 304 - 230ms | IP: ::1[39m
+2025-05-11 12:26:04:264 [35mhttp[39m: [35mGET /api/orders/user 403 - 61ms | IP: ::1[39m
+2025-05-11 12:26:04:264 [35mhttp[39m: [35mGET /api/orders/user 403 - 2ms | IP: ::1[39m
+2025-05-11 12:26:12:2612 [35mhttp[39m: [35mGET /api/orders/user 403 - 2ms | IP: ::1[39m
+2025-05-11 12:26:12:2612 [35mhttp[39m: [35mGET /api/orders/user 403 - 1ms | IP: ::1[39m
+2025-05-11 12:26:12:2612 [35mhttp[39m: [35mGET /api/orders/user 403 - 2ms | IP: ::1[39m
+2025-05-11 12:26:12:2612 [35mhttp[39m: [35mGET /api/orders/user 403 - 2ms | IP: ::1[39m
+2025-05-11 12:26:21:2621 [35mhttp[39m: [35mGET /api/orders/user 403 - 2ms | IP: ::1[39m
+2025-05-11 12:26:21:2621 [35mhttp[39m: [35mGET /api/orders/user 403 - 2ms | IP: ::1[39m
+2025-05-11 12:27:09:279 [35mhttp[39m: [35mGET /api/orders/user 403 - 2ms | IP: ::1[39m
+2025-05-11 12:27:09:279 [35mhttp[39m: [35mGET /api/orders/user 403 - 2ms | IP: ::1[39m
+2025-05-11 12:28:56:2856 [35mhttp[39m: [35mPOST /api/auth/login 200 - 206ms | IP: ::1[39m
+2025-05-11 12:28:56:2856 [35mhttp[39m: [35mGET /api/menu 304 - 57ms | IP: ::1[39m
+2025-05-11 12:28:56:2856 [35mhttp[39m: [35mGET /api/menu 304 - 49ms | IP: ::1[39m
+2025-05-11 12:29:01:291 [35mhttp[39m: [35mGET /api/orders/user 200 - 412ms | IP: ::1[39m
+2025-05-11 12:29:01:291 [35mhttp[39m: [35mGET /api/orders/user 304 - 107ms | IP: ::1[39m
+2025-05-11 12:29:09:299 [35mhttp[39m: [35mGET /api/orders/user 304 - 297ms | IP: ::1[39m
+2025-05-11 12:29:09:299 [35mhttp[39m: [35mGET /api/orders/user 304 - 102ms | IP: ::1[39m
+2025-05-11 12:31:18:3118 [35mhttp[39m: [35mGET /api/orders/user 304 - 582ms | IP: ::1[39m
+2025-05-11 12:31:18:3118 [35mhttp[39m: [35mGET /api/orders/user 304 - 115ms | IP: ::1[39m
+2025-05-11 12:31:24:3124 [35mhttp[39m: [35mGET /api/orders/67dba2ce4ecb2e77e84c1d29 200 - 418ms | IP: ::1[39m
+2025-05-11 12:31:24:3124 [35mhttp[39m: [35mGET /api/orders/67dba2ce4ecb2e77e84c1d29 304 - 317ms | IP: ::1[39m
+2025-05-11 12:31:28:3128 [35mhttp[39m: [35mGET /api/orders/user 304 - 326ms | IP: ::1[39m
+2025-05-11 12:31:28:3128 [35mhttp[39m: [35mGET /api/orders/user 304 - 127ms | IP: ::1[39m
+2025-05-11 12:32:37:3237 [35mhttp[39m: [35mGET /api/orders/user 304 - 116ms | IP: ::1[39m
+2025-05-11 12:32:37:3237 [35mhttp[39m: [35mGET /api/orders/user 304 - 100ms | IP: ::1[39m
+2025-05-11 12:33:05:335 [35mhttp[39m: [35mGET /api/orders/67dba2ce4ecb2e77e84c1d29 304 - 237ms | IP: ::1[39m
+2025-05-11 12:33:05:335 [35mhttp[39m: [35mGET /api/orders/67dba2ce4ecb2e77e84c1d29 304 - 107ms | IP: ::1[39m
+2025-05-11 12:33:09:339 [35mhttp[39m: [35mGET /api/orders/user 304 - 453ms | IP: ::1[39m
+2025-05-11 12:33:09:339 [35mhttp[39m: [35mGET /api/orders/user 304 - 99ms | IP: ::1[39m
+2025-05-11 12:33:32:3332 [35mhttp[39m: [35mGET /api/orders/user 304 - 112ms | IP: ::1[39m
+2025-05-11 12:33:32:3332 [35mhttp[39m: [35mGET /api/orders/user 304 - 315ms | IP: ::1[39m
+2025-05-11 12:34:24:3424 [35mhttp[39m: [35mGET /api/orders/67dba2ce4ecb2e77e84c1d29 304 - 110ms | IP: ::1[39m
+2025-05-11 12:34:24:3424 [35mhttp[39m: [35mGET /api/orders/67dba2ce4ecb2e77e84c1d29 304 - 309ms | IP: ::1[39m
+2025-05-11 12:34:27:3427 [35mhttp[39m: [35mGET /api/orders/user 304 - 347ms | IP: ::1[39m
+2025-05-11 12:34:28:3428 [35mhttp[39m: [35mGET /api/orders/user 304 - 98ms | IP: ::1[39m
+2025-05-11 12:35:06:356 [35mhttp[39m: [35mGET /api/orders/67dba2ce4ecb2e77e84c1d29 304 - 369ms | IP: ::1[39m
+2025-05-11 12:35:06:356 [35mhttp[39m: [35mGET /api/orders/67dba2ce4ecb2e77e84c1d29 304 - 107ms | IP: ::1[39m
+2025-05-11 12:36:07:367 [35mhttp[39m: [35mGET /api/orders/67dba2ce4ecb2e77e84c1d29 304 - 245ms | IP: ::1[39m
+2025-05-11 12:36:07:367 [35mhttp[39m: [35mGET /api/orders/67dba2ce4ecb2e77e84c1d29 304 - 98ms | IP: ::1[39m
+2025-05-11 12:37:22:3722 [35mhttp[39m: [35mGET /api/orders/67dba2ce4ecb2e77e84c1d29 304 - 106ms | IP: ::1[39m
+2025-05-11 12:37:22:3722 [35mhttp[39m: [35mGET /api/orders/67dba2ce4ecb2e77e84c1d29 304 - 105ms | IP: ::1[39m
+2025-05-11 12:38:23:3823 [35mhttp[39m: [35mGET /api/orders/67dba2ce4ecb2e77e84c1d29 304 - 369ms | IP: ::1[39m
+2025-05-11 12:38:23:3823 [35mhttp[39m: [35mGET /api/orders/67dba2ce4ecb2e77e84c1d29 304 - 102ms | IP: ::1[39m
+2025-05-11 12:38:35:3835 [35mhttp[39m: [35mGET /api/orders/user 304 - 109ms | IP: ::1[39m
+2025-05-11 12:38:35:3835 [35mhttp[39m: [35mGET /api/orders/user 304 - 98ms | IP: ::1[39m
+2025-05-11 12:38:39:3839 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 331ms | IP: ::1[39m
+2025-05-11 12:38:39:3839 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 59ms | IP: ::1[39m
+2025-05-11 12:38:50:3850 [35mhttp[39m: [35mGET /api/reservations/6819fed8f3cd8ba129978ea2 304 - 145ms | IP: ::1[39m
+2025-05-11 12:38:50:3850 [35mhttp[39m: [35mGET /api/reservations/6819fed8f3cd8ba129978ea2 304 - 102ms | IP: ::1[39m
+2025-05-11 12:38:57:3857 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 268ms | IP: ::1[39m
+2025-05-11 12:38:57:3857 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 57ms | IP: ::1[39m
+2025-05-11 12:38:59:3859 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-05-11&guestCount=2 200 - 321ms | IP: ::1[39m
+2025-05-11 12:38:59:3859 [35mhttp[39m: [35mGET /api/reservations/available-slots?date=2025-05-11&guestCount=2 304 - 98ms | IP: ::1[39m
+2025-05-11 12:39:20:3920 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 352ms | IP: ::1[39m
+2025-05-11 12:39:20:3920 [35mhttp[39m: [35mGET /api/customer/reservations 304 - 49ms | IP: ::1[39m
+2025-05-11 12:39:33:3933 [35mhttp[39m: [35mGET /api/menu 304 - 77ms | IP: ::1[39m
+2025-05-11 12:39:33:3933 [35mhttp[39m: [35mGET /api/menu 304 - 74ms | IP: ::1[39m
+2025-05-11 12:43:24:4324 [35mhttp[39m: [35mPOST /api/auth/login 200 - 132ms | IP: ::1[39m
+2025-05-11 12:44:56:4456 [35mhttp[39m: [35mPUT /api/menu/678a88daeaa4b24273b379e9 400 - 38ms | IP: ::1[39m
+2025-05-11 12:47:53:4753 [35mhttp[39m: [35mPUT /api/menu/678a88daeaa4b24273b379e9 400 - 3ms | IP: ::1[39m
+2025-05-11 12:50:45:5045 [35mhttp[39m: [35mPUT /api/menu/678a88daeaa4b24273b379e9 400 - 23ms | IP: ::1[39m
+2025-05-11 12:52:21:5221 [35mhttp[39m: [35mPUT /api/menu/678a88daeaa4b24273b379e9 400 - 2ms | IP: ::1[39m
+2025-05-11 12:52:49:5249 [35mhttp[39m: [35mPOST /api/auth/login 200 - 161ms | IP: ::1[39m
+2025-05-11 12:52:50:5250 [35mhttp[39m: [35mGET /api/admin/analytics 200 - 207ms | IP: ::1[39m
+2025-05-11 12:52:50:5250 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 238ms | IP: ::1[39m
+2025-05-11 12:52:50:5250 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 492ms | IP: ::1[39m
+2025-05-11 12:52:50:5250 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 200 - 495ms | IP: ::1[39m
+2025-05-11 12:52:50:5250 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 181ms | IP: ::1[39m
+2025-05-11 12:52:50:5250 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 441ms | IP: ::1[39m
+2025-05-11 12:52:53:5253 [35mhttp[39m: [35mGET /api/menu 304 - 66ms | IP: ::1[39m
+2025-05-11 12:52:53:5253 [35mhttp[39m: [35mGET /api/menu 304 - 54ms | IP: ::1[39m
+2025-05-11 12:53:09:539 [35mhttp[39m: [35mPUT /api/menu/678a88daeaa4b24273b379e9 200 - 637ms | IP: ::1[39m
+2025-05-11 12:53:09:539 [35mhttp[39m: [35mGET /api/menu 200 - 296ms | IP: ::1[39m
+2025-05-11 12:54:17:5417 [35mhttp[39m: [35mPUT /api/menu/678a893eeaa4b24273b379ed 200 - 132ms | IP: ::1[39m
+2025-05-11 12:54:17:5417 [35mhttp[39m: [35mGET /api/menu 200 - 58ms | IP: ::1[39m
+2025-05-11 12:55:02:552 [35mhttp[39m: [35mPUT /api/menu/678a894beaa4b24273b379ef 200 - 132ms | IP: ::1[39m
+2025-05-11 12:55:02:552 [35mhttp[39m: [35mGET /api/menu 200 - 64ms | IP: ::1[39m
+2025-05-11 12:55:34:5534 [35mhttp[39m: [35mPUT /api/menu/6795d7db770c306da3588cb7 200 - 117ms | IP: ::1[39m
+2025-05-11 12:55:34:5534 [35mhttp[39m: [35mGET /api/menu 200 - 54ms | IP: ::1[39m
+2025-05-11 12:56:10:5610 [35mhttp[39m: [35mPUT /api/menu/6795d7f9770c306da3588cb9 500 - 78ms | IP: ::1[39m
+2025-05-11 12:56:21:5621 [35mhttp[39m: [35mPUT /api/menu/6795d7f9770c306da3588cb9 500 - 66ms | IP: ::1[39m
+2025-05-11 12:57:07:577 [35mhttp[39m: [35mPUT /api/menu/6795d7f9770c306da3588cb9 500 - 61ms | IP: ::1[39m
+2025-05-11 12:58:45:5845 [35mhttp[39m: [35mPUT /api/menu/6795d7f9770c306da3588cb9 200 - 126ms | IP: ::1[39m
+2025-05-11 12:58:45:5845 [35mhttp[39m: [35mGET /api/menu 200 - 59ms | IP: ::1[39m
+2025-05-11 12:59:20:5920 [35mhttp[39m: [35mPUT /api/menu/6795d83c485858c827a00e6f 200 - 134ms | IP: ::1[39m
+2025-05-11 12:59:20:5920 [35mhttp[39m: [35mGET /api/menu 200 - 62ms | IP: ::1[39m
+2025-05-11 12:59:48:5948 [35mhttp[39m: [35mPUT /api/menu/6795d85b485858c827a00e73 200 - 267ms | IP: ::1[39m
+2025-05-11 12:59:48:5948 [35mhttp[39m: [35mGET /api/menu 200 - 237ms | IP: ::1[39m
+2025-05-11 13:00:18:018 [35mhttp[39m: [35mPUT /api/menu/6795d892485858c827a00e79 500 - 49ms | IP: ::1[39m
+2025-05-11 13:01:26:126 [35mhttp[39m: [35mPUT /api/menu/6795d892485858c827a00e79 200 - 379ms | IP: ::1[39m
+2025-05-11 13:01:26:126 [35mhttp[39m: [35mGET /api/menu 200 - 57ms | IP: ::1[39m
+2025-05-11 13:01:56:156 [35mhttp[39m: [35mPUT /api/menu/6795d8d4485858c827a00e7f 200 - 317ms | IP: ::1[39m
+2025-05-11 13:01:56:156 [35mhttp[39m: [35mGET /api/menu 200 - 67ms | IP: ::1[39m
+2025-05-11 13:02:25:225 [35mhttp[39m: [35mPUT /api/menu/6795d91c485858c827a00e83 200 - 383ms | IP: ::1[39m
+2025-05-11 13:02:25:225 [35mhttp[39m: [35mGET /api/menu 200 - 50ms | IP: ::1[39m
+2025-05-11 13:03:01:31 [35mhttp[39m: [35mPUT /api/menu/6795d943485858c827a00e85 200 - 126ms | IP: ::1[39m
+2025-05-11 13:03:01:31 [35mhttp[39m: [35mGET /api/menu 200 - 57ms | IP: ::1[39m
+2025-05-11 13:04:04:44 [35mhttp[39m: [35mPUT /api/menu/6795d94f485858c827a00e87 200 - 333ms | IP: ::1[39m
+2025-05-11 13:04:05:45 [35mhttp[39m: [35mGET /api/menu 200 - 291ms | IP: ::1[39m
+2025-05-11 13:04:37:437 [35mhttp[39m: [35mPUT /api/menu/6795d959485858c827a00e89 200 - 125ms | IP: ::1[39m
+2025-05-11 13:04:37:437 [35mhttp[39m: [35mGET /api/menu 200 - 59ms | IP: ::1[39m
+2025-05-11 13:05:06:56 [35mhttp[39m: [35mPUT /api/menu/6795d964485858c827a00e8b 200 - 394ms | IP: ::1[39m
+2025-05-11 13:05:06:56 [35mhttp[39m: [35mGET /api/menu 200 - 65ms | IP: ::1[39m
+2025-05-11 13:05:58:558 [35mhttp[39m: [35mPUT /api/menu/6795d96f485858c827a00e8d 200 - 330ms | IP: ::1[39m
+2025-05-11 13:05:58:558 [35mhttp[39m: [35mGET /api/menu 200 - 62ms | IP: ::1[39m
+2025-05-11 13:07:02:72 [35mhttp[39m: [35mPUT /api/menu/6795d97c485858c827a00e8f 200 - 505ms | IP: ::1[39m
+2025-05-11 13:07:02:72 [35mhttp[39m: [35mGET /api/menu 200 - 63ms | IP: ::1[39m
+2025-05-11 13:07:38:738 [35mhttp[39m: [35mPUT /api/menu/6795d986485858c827a00e91 200 - 526ms | IP: ::1[39m
+2025-05-11 13:07:38:738 [35mhttp[39m: [35mGET /api/menu 200 - 302ms | IP: ::1[39m
+2025-05-11 13:08:11:811 [35mhttp[39m: [35mPUT /api/menu/6795d9ad485858c827a00e95 200 - 408ms | IP: ::1[39m
+2025-05-11 13:08:11:811 [35mhttp[39m: [35mGET /api/menu 200 - 55ms | IP: ::1[39m
+2025-05-11 13:08:52:852 [35mhttp[39m: [35mPUT /api/menu/679db7c7e4f0b63e7d72522c 200 - 121ms | IP: ::1[39m
+2025-05-11 13:08:52:852 [35mhttp[39m: [35mGET /api/menu 200 - 61ms | IP: ::1[39m
+2025-05-11 13:13:03:133 [35mhttp[39m: [35mGET /api/menu 304 - 61ms | IP: ::1[39m
+2025-05-11 13:15:28:1528 [35mhttp[39m: [35mGET /api/menu 304 - 64ms | IP: ::1[39m
+2025-05-11 13:16:03:163 [35mhttp[39m: [35mGET /api/orders 200 - 141ms | IP: ::1[39m
+2025-05-11 13:16:03:163 [35mhttp[39m: [35mGET /api/orders 200 - 107ms | IP: ::1[39m
+2025-05-11 13:16:15:1615 [35mhttp[39m: [35mPUT /api/orders/67dba582555b93d1f8ce69ea/status 200 - 244ms | IP: ::1[39m
+2025-05-11 13:16:21:1621 [35mhttp[39m: [35mPUT /api/orders/6819ed7e2ce8552626876298/status 200 - 186ms | IP: ::1[39m
+2025-05-11 13:16:24:1624 [35mhttp[39m: [35mGET /api/reservations/all?date=2025-05-11 200 - 117ms | IP: ::1[39m
+2025-05-11 13:16:24:1624 [35mhttp[39m: [35mGET /api/reservations/all?date=2025-05-11 304 - 110ms | IP: ::1[39m
+2025-05-11 13:16:27:1627 [35mhttp[39m: [35mPATCH /api/reservations/6819fed8f3cd8ba129978ea2/status 200 - 305ms | IP: ::1[39m
+2025-05-11 13:16:27:1627 [35mhttp[39m: [35mGET /api/reservations/all?date=2025-05-11 200 - 105ms | IP: ::1[39m
+2025-05-11 13:16:33:1633 [35mhttp[39m: [35mPATCH /api/reservations/67a367e0880046967d7100c1/status 200 - 276ms | IP: ::1[39m
+2025-05-11 13:16:33:1633 [35mhttp[39m: [35mGET /api/reservations/all?date=2025-05-11 200 - 324ms | IP: ::1[39m
+2025-05-11 13:16:37:1637 [35mhttp[39m: [35mGET /api/admin/users 200 - 364ms | IP: ::1[39m
+2025-05-11 13:16:37:1637 [35mhttp[39m: [35mGET /api/admin/users 200 - 61ms | IP: ::1[39m
+2025-05-11 13:16:43:1643 [35mhttp[39m: [35mGET /api/reports/menu-metrics?startDate=2025-04-11&endDate=2025-05-11 200 - 63ms | IP: ::1[39m
+2025-05-11 13:16:43:1643 [35mhttp[39m: [35mGET /api/reports/menu-metrics?startDate=2025-04-11&endDate=2025-05-11 304 - 54ms | IP: ::1[39m
+2025-05-11 13:16:43:1643 [35mhttp[39m: [35mGET /api/reports/peak-hours?date=2025-05-11 200 - 128ms | IP: ::1[39m
+2025-05-11 13:16:43:1643 [35mhttp[39m: [35mGET /api/reports/peak-hours?date=2025-05-11 304 - 105ms | IP: ::1[39m
+2025-05-11 13:16:43:1643 [35mhttp[39m: [35mGET /api/reports/monthly?month=5&year=2025 200 - 412ms | IP: ::1[39m
+2025-05-11 13:16:44:1644 [35mhttp[39m: [35mGET /api/reports/monthly?month=5&year=2025 200 - 816ms | IP: ::1[39m
+2025-05-11 13:17:27:1727 [35mhttp[39m: [35mGET /api/menu 304 - 253ms | IP: ::1[39m
+2025-05-11 13:17:27:1727 [35mhttp[39m: [35mGET /api/menu 304 - 61ms | IP: ::1[39m
+2025-05-11 13:17:40:1740 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 109ms | IP: ::1[39m
+2025-05-11 13:17:40:1740 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 200 - 119ms | IP: ::1[39m
+2025-05-11 13:17:40:1740 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 203ms | IP: ::1[39m
+2025-05-11 13:17:40:1740 [35mhttp[39m: [35mGET /api/reservations/all?status=confirmed&limit=5 304 - 104ms | IP: ::1[39m
+2025-05-11 13:17:41:1741 [35mhttp[39m: [35mGET /api/admin/analytics 304 - 200ms | IP: ::1[39m
+2025-05-11 13:17:41:1741 [35mhttp[39m: [35mGET /api/orders?limit=5 200 - 309ms | IP: ::1[39m
+2025-05-11 13:18:01:181 [35mhttp[39m: [35mPOST /api/auth/login 200 - 438ms | IP: ::1[39m
+2025-05-11 13:18:01:181 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 110ms | IP: ::1[39m
+2025-05-11 13:18:01:181 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 105ms | IP: ::1[39m
+2025-05-11 13:18:02:182 [35mhttp[39m: [35mGET /api/staff/stats 200 - 666ms | IP: ::1[39m
+2025-05-11 13:18:02:182 [35mhttp[39m: [35mGET /api/staff/stats 304 - 763ms | IP: ::1[39m
+2025-05-11 13:18:10:1810 [35mhttp[39m: [35mGET /api/kitchen/active-orders 200 - 115ms | IP: ::1[39m
+2025-05-11 13:18:10:1810 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 320ms | IP: ::1[39m
+2025-05-11 13:18:16:1816 [35mhttp[39m: [35mPUT /api/staff/orders/67dba582555b93d1f8ce69ea/status 200 - 374ms | IP: ::1[39m
+2025-05-11 13:18:16:1816 [35mhttp[39m: [35mGET /api/kitchen/active-orders 200 - 114ms | IP: ::1[39m
+2025-05-11 13:18:20:1820 [35mhttp[39m: [35mGET /api/tables 200 - 129ms | IP: ::1[39m
+2025-05-11 13:18:20:1820 [35mhttp[39m: [35mGET /api/tables 304 - 107ms | IP: ::1[39m
+2025-05-11 13:18:22:1822 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 111ms | IP: ::1[39m
+2025-05-11 13:18:22:1822 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 115ms | IP: ::1[39m
+2025-05-11 13:18:23:1823 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 67ms | IP: ::1[39m
+2025-05-11 13:18:24:1824 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 56ms | IP: ::1[39m
+2025-05-11 13:19:36:1936 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 53ms | IP: ::1[39m
+2025-05-11 13:19:36:1936 [35mhttp[39m: [35mGET /api/kitchen/active-orders 304 - 54ms | IP: ::1[39m
+2025-05-11 13:19:44:1944 [35mhttp[39m: [35mGET /api/tables 304 - 373ms | IP: ::1[39m
+2025-05-11 13:19:44:1944 [35mhttp[39m: [35mGET /api/tables 304 - 108ms | IP: ::1[39m
+2025-05-11 13:19:46:1946 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 369ms | IP: ::1[39m
+2025-05-11 13:19:46:1946 [35mhttp[39m: [35mGET /api/staff/orders/active 200 - 109ms | IP: ::1[39m
+2025-05-11 13:19:52:1952 [35mhttp[39m: [35mGET /api/staff/stats 401 - 1ms | IP: ::1[39m
+2025-05-11 13:19:52:1952 [35mhttp[39m: [35mGET /api/staff/orders/active 401 - 1ms | IP: ::1[39m
+2025-05-11 13:19:52:1952 [35mhttp[39m: [35mGET /api/staff/stats 401 - 0ms | IP: ::1[39m
+2025-05-11 13:19:52:1952 [35mhttp[39m: [35mGET /api/staff/orders/active 401 - 1ms | IP: ::1[39m

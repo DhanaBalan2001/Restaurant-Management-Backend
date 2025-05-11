@@ -1,4 +1,5 @@
 import Order from '../models/Order.js';
+import Table from '../models/Table.js';
 
 export const getActiveOrders = async (req, res) => {
   try {
@@ -48,3 +49,42 @@ export const searchOrders = async (req, res) => {
     res.status(500).json({ message: error.message });
   }
 };
+
+export const getStats = async (req, res) => {
+  try {
+    // Get order statistics
+    const activeOrders = await Order.countDocuments({ 
+      status: { $in: ['pending', 'preparing'] } 
+    });
+    
+    const pendingOrders = await Order.countDocuments({ 
+      status: 'pending' 
+    });
+    
+    const completedOrders = await Order.countDocuments({ 
+      status: 'completed' 
+    });
+
+    // Get table statistics
+    const occupiedTables = await Table.countDocuments({ 
+      status: 'occupied' 
+    });
+    
+    const availableTables = await Table.countDocuments({ 
+      status: 'available' 
+    });
+
+    // Return combined stats
+    res.json({
+      activeOrders,
+      pendingOrders,
+      completedOrders,
+      occupiedTables,
+      availableTables
+    });
+  } catch (error) {
+    console.error('Stats error:', error);
+    res.status(500).json({ message: 'Error fetching dashboard stats' });
+  }
+};
+

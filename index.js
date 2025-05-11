@@ -1,78 +1,81 @@
-import { config } from "dotenv";
-config();
+import express from 'express';
+import cors from 'cors';
+import mongoose from 'mongoose';
+import dotenv from 'dotenv';
+import http from 'http';
+import { initSocket } from './services/socket.js';
+import { httpLogger } from './middleware/httpLogger.js';
+import { handleError } from './utils/errorHandler.js';
 
-import express from "express";
-import mongoose from "mongoose";
-import { createServer } from 'http';
-import cors from "cors";
-import path from 'path';
-import { fileURLToPath } from 'url';
-import { Server } from 'socket.io';
+// Import routes
 import authRoutes from './routes/auth.js';
-import adminRoutes from './routes/admin.js';
+import menuRoutes from './routes/menu.js';
+import orderRoutes from './routes/order.js';
 import reservationRoutes from './routes/reservation.js';
 import inventoryRoutes from './routes/inventory.js';
-import reportRoutes from './routes/reports.js';
 import branchRoutes from './routes/branch.js';
-import menuRoutes from './routes/menu.js';
 import tableRoutes from './routes/table.js';
-import orderRoutes from './routes/order.js';
-import docsRouter from './routes/docs.js';
 import staffRoutes from './routes/staff.js';
+import customerRoutes from './routes/customer.js';
+import adminRoutes from './routes/admin.js';
+import reportRoutes from './routes/reports.js';
 import paymentRoutes from './routes/payment.js';
-import { initializeSocket } from './services/socket.js';
+import syncRoutes from './routes/sync.js';
+import kitchenRoutes from './routes/kitchen.js';
+import loyaltyRoutes from './routes/loyalty.js';
+import deliveryRoutes from './routes/delivery.js';
+import feedbackRoutes from './routes/feedback.js';
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
+
+dotenv.config();
 const app = express();
-config({ path: path.join(__dirname, '.env') });
+const server = http.createServer(app);
+const PORT = process.env.PORT || 5000;
+
+// Initialize Socket.io
+initSocket(server);
+
+// Middleware
 app.use(cors({
-  origin: ['http://localhost:5174','http://localhost:5173'],
+  origin: process.env.CLIENT_URL || 'http://localhost:5173',
   credentials: true
 }));
 app.use(express.json());
-
-const server = createServer(app);
-const io = new Server(server, {
-  cors: {
-    origin: ['http://localhost:5174','http://localhost:5173'],
-    methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
-   allowedHeaders: ['Content-Type', 'Authorization'],
-    credentials: true
-  }
-});
+app.use(httpLogger);
 
 // Routes
 app.use('/api/auth', authRoutes);
-app.use('/api/admin', adminRoutes);
-app.use('/api/admin/staff', staffRoutes);
-app.use('/api/reservations', reservationRoutes);
-app.use('/api/inventory', inventoryRoutes);
-app.use('/api/reports', reportRoutes);
-app.use('/api/branches', branchRoutes);
 app.use('/api/menu', menuRoutes);
 app.use('/api/orders', orderRoutes);
+app.use('/api/reservations', reservationRoutes);
+app.use('/api/inventory', inventoryRoutes);
+app.use('/api/branches', branchRoutes);
 app.use('/api/tables', tableRoutes);
-app.use('/api/payment', paymentRoutes);
-app.use('/', docsRouter);
+app.use('/api/staff', staffRoutes);
+app.use('/api/customer', customerRoutes);
+app.use('/api/admin', adminRoutes);
+app.use('/api/reports', reportRoutes);
+app.use('/api/payments', paymentRoutes);
+app.use('/api/sync', syncRoutes);
+app.use('/api/kitchen', kitchenRoutes);
+app.use('/api/loyalty', loyaltyRoutes);
+app.use('/api/delivery', deliveryRoutes);
+app.use('/api/feedback', feedbackRoutes);
 
-// MongoDB Connection
+// Error handling middleware
+app.use(handleError);
+
+// Connect to MongoDB
 mongoose.connect(process.env.MONGODB)
-  .then(() => console.log("Connected to MongoDB!"))
-  .catch((error) => {
-    console.error("MongoDB connection error:", error);
+  .then(() => {
+    console.log('Connected to MongoDB');
+    server.listen(PORT, () => {
+      console.log(`Server running on port ${PORT}`);
+    });
+  })
+  .catch(err => {
+    console.error('MongoDB connection error:', err);
     process.exit(1);
   });
 
-mongoose.connection.on("disconnected", () => {
-  console.log("MongoDB disconnected!");
-});
-
-mongoose.connection.on("connected", () => {
-  console.log("MongoDB connected!");
-});
-
-const PORT = process.env.PORT || 5000;
-server.listen(PORT, () => {
-  console.log(`Server running on port ${PORT}`);
-});
+export default app;

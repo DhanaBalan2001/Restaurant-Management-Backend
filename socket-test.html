@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Socket.IO Test</title>
+  <script src="https://cdn.socket.io/4.5.0/socket.io.min.js"></script>
+</head>
+<body>
+  <h1>Socket.IO Test</h1>
+  <div>
+    <button id="connect">Connect</button>
+    <button id="join-kitchen">Join Kitchen Room</button>
+  </div>
+  <div>
+    <h3>Events:</h3>
+    <pre id="events"></pre>
+  </div>
+
+  <script>
+    let socket;
+    const eventsDiv = document.getElementById('events');
+    
+    document.getElementById('connect').addEventListener('click', () => {
+      socket = io('http://localhost:5000');
+      
+      socket.on('connect', () => {
+        addEvent('Connected to server');
+      });
+      
+      socket.on('new_order', (data) => {
+        addEvent('New Order: ' + JSON.stringify(data));
+      });
+      
+      socket.on('order_update', (data) => {
+        addEvent('Order Update: ' + JSON.stringify(data));
+      });
+      
+      socket.on('delivery_update', (data) => {
+        addEvent('Delivery Update: ' + JSON.stringify(data));
+      });
+    });
+    
+    document.getElementById('join-kitchen').addEventListener('click', () => {
+      if (socket) {
+        socket.emit('join_room', 'kitchen');
+        addEvent('Joined kitchen room');
+      } else {
+        addEvent('Connect to server first');
+      }
+    });
+    
+    function addEvent(text) {
+      const time = new Date().toLocaleTimeString();
+      eventsDiv.innerHTML += `[${time}] ${text}\n`;
+    }
+  </script>
+</body>
+</html>

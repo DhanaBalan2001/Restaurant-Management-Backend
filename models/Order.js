@@ -5,7 +5,13 @@ const orderSchema = new Schema({
   items: [{
     menuItem: { type: Schema.Types.ObjectId, ref: 'Menu' },
     quantity: Number,
-    price: Number
+    price: Number,
+    customizations: [{
+      optionName: String,
+      selectedValues: [String],
+      additionalPrice: Number
+    }],
+    specialInstructions: String
   }],
   totalAmount: { type: Number, required: true },
   status: { 
@@ -13,7 +19,9 @@ const orderSchema = new Schema({
     enum: ['pending', 'confirmed', 'preparing', 'ready', 'delivered', 'cancelled'],
     default: 'pending'
   },
-  orderDate: { type: Date, default: Date.now }
+  orderDate: { type: Date, default: Date.now },
+  estimatedCompletionTime: { type: Date },
+  specialRequests: { type: String }
 });
 
 export default model('Order', orderSchema);

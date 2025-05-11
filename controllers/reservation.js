@@ -1,20 +1,9 @@
+import nodemailer from 'nodemailer';
 import Reservation from '../models/Reservation.js';
 import Table from '../models/Table.js';
-import nodemailer from 'nodemailer';
-import dotenv from 'dotenv';
+import { EmailService } from '../services/email.js';
 
-dotenv.config();
-
-const transporter = nodemailer.createTransport({
-  host: 'smtp.gmail.com',
-  port: 587,
-  secure: false,
-  service: 'gmail',
-  auth: {
-    user: process.env.EMAIL_USER,
-    pass: process.env.EMAIL_PASSWORD
-  }
-});
+const emailService = new EmailService();
 
 const TIME_SLOTS = [
   '11:00', '12:00', '13:00', '14:00',
@@ -71,9 +60,37 @@ export const getAvailableTimeSlots = async (req, res) => {
 
 export const createReservation = async (req, res) => {
   try {
-    const { table, date, timeSlot, guestCount, customerName, customerEmail, customerPhone } = req.body;
-
-    const newReservation = await Reservation.create({
+    const { 
+      table, 
+      date, 
+      timeSlot, 
+      guestCount, 
+      customerName, 
+      customerEmail, 
+      customerPhone,
+      specialRequests 
+    } = req.body;
+    
+    // Check if table is available for the selected time slot
+    const selectedDate = new Date(date);
+    const existingReservation = await Reservation.findOne({
+      table,
+      date: {
+        $gte: new Date(selectedDate.setHours(0,0,0)),
+        $lt: new Date(selectedDate.setHours(23,59,59))
+      },
+      timeSlot,
+      status: { $ne: 'cancelled' }
+    });
+    
+    if (existingReservation) {
+      return res.status(400).json({ 
+        message: 'This table is already reserved for the selected time slot' 
+      });
+    }
+    
+    // Create new reservation
+    const reservation = new Reservation({
       table,
       date,
       timeSlot,
@@ -81,10 +98,26 @@ export const createReservation = async (req, res) => {
       customerName,
       customerEmail,
       customerPhone,
+      specialRequests,
       status: 'pending'
     });
-
-    res.status(201).json(newReservation);
+    
+    // If user is authenticated, associate with customer
+    if (req.user && req.user.userId) {
+      reservation.customer = req.user.userId;
+    }
+    
+    const savedReservation = await reservation.save();
+    
+    // Send confirmation email
+    try {
+      await emailService.sendPaymentLink(savedReservation);
+    } catch (emailError) {
+      console.error('Failed to send email:', emailError);
+      // Continue with the reservation process even if email fails
+    }
+    
+    res.status(201).json(savedReservation);
   } catch (error) {
     res.status(500).json({ message: error.message });
   }
@@ -95,77 +128,42 @@ export const updateReservationStatus = async (req, res) => {
     const { id } = req.params;
     const { status } = req.body;
     
-    const reservation = await Reservation.findById(id);
-    if (!reservation) {
-      return res.status(404).json({ message: "Reservation not found" });
-    }
-
-    // Log email details for verification
-    console.log('Sending email to:', reservation.customerEmail);
-
-    reservation.status = status;
-    await reservation.save();
-
-    if (status === 'confirmed') {
-      const mailOptions = {
-        from: process.env.EMAIL_USER,
-        to: reservation.customerEmail,
-        subject: 'Restaurant Reservation Confirmed',
-        html: `
-          <div style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;">
-            <h2 style="color: #2c3e50;">Your Table is Reserved!</h2>
-            <div style="background-color: #f8f9fa; padding: 20px; border-radius: 5px;">
-              <h3>Reservation Details:</h3>
-              <ul style="list-style: none; padding: 0;">
-                <li>📅 Date: ${new Date(reservation.date).toLocaleDateString()}</li>
-                <li>⏰ Time: ${reservation.timeSlot}</li>
-                <li>👥 Guests: ${reservation.guestCount}</li>
-              </ul>
-            </div>
-            <div style="text-align: center; margin-top: 30px;">
-              <a href="${process.env.CLIENT_URL}/payment/${reservation._id}"
-                  style="background-color: #4CAF50; color: white; padding: 12px 25px;
-                         text-decoration: none; border-radius: 5px; display: inline-block;">
-                Complete Payment
-              </a>
-            </div>
-          </div>
-        `
-      };
-
-      await transporter.sendMail(mailOptions);
-      console.log('Email sent successfully');
-    }
-
-    res.json({
-      message: `Reservation ${status} and notification sent successfully`,
-      reservation
-    });
-  } catch (error) {
-    console.log('Email error:', error);
-    res.status(500).json({ message: error.message });
-  }
-};
-
-export const getPendingReservations = async (req, res) => {
-  try {
-    const reservations = await Reservation.find({
-      status: 'pending'
-    }).populate('table');
+    const reservation = await Reservation.findByIdAndUpdate(
+      id,
+      { status },
+      { new: true }
+    );
     
-    res.json(reservations);
+    if (!reservation) {
+      return res.status(404).json({ message: 'Reservation not found' });
+    }
+    
+    res.json(reservation);
   } catch (error) {
     res.status(500).json({ message: error.message });
   }
 };
+
 
 export const getAllReservations = async (req, res) => {
   try {
     const reservations = await Reservation.find()
       .populate('table')
-      .sort({ date: -1 });
-    
+      .sort('-createdAt');
     res.json(reservations);
+  } catch (error) {
+    res.status(500).json({ message: error.message });
+  }
+};
+
+
+export const getPendingReservations = async (req, res) => {
+  try {
+    const pendingReservations = await Reservation.find({ 
+      status: 'pending' 
+    }).populate('table').sort('-createdAt');
+    
+    res.json(pendingReservations);
   } catch (error) {
     res.status(500).json({ message: error.message });
   }

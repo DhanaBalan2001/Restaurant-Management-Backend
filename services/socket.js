@@ -2,58 +2,53 @@ import { Server } from 'socket.io';
 
 let io;
 
-export const initializeSocket = (server) => {
+export const initSocket = (server) => {
   io = new Server(server, {
     cors: {
-      origin: process.env.CLIENT_URL,
-      methods: ["GET", "POST"]
+      // Allow all origins
+      origin: '*',
+      methods: ['GET', 'POST'],
+      credentials: true
     }
   });
 
   io.on('connection', (socket) => {
-    console.log('Kitchen connected:', socket.id);
-
-    socket.on('joinKitchen', (branchId) => {
-      socket.join(`kitchen_${branchId}`);
-      console.log(`Joined kitchen room: kitchen_${branchId}`);
+    console.log('New client connected', socket.id);
+    
+    socket.on('join_room', (room) => {
+      socket.join(room);
+      console.log(`Socket ${socket.id} joined room: ${room}`);
     });
-
-    socket.on('orderStatusUpdate', (data) => {
-      io.to(`kitchen_${data.branchId}`).emit('statusUpdated', data);
-    });
-
-    socket.on('newOrder', (order) => {
-      console.log('New order received:', order);
-      displayNewOrder(order);
-      playAlertSound();
-    });
-
-    socket.on('orderStatusChanged', (update) => {
-      console.log('Order status updated:', update);
-      updateOrderStatus(update);
-    });
-
+    
     socket.on('disconnect', () => {
-      console.log('Kitchen disconnected:', socket.id);
+      console.log('Client disconnected', socket.id);
     });
   });
 
   return io;
 };
 
+export const getIO = () => {
+  if (!io) {
+    throw new Error('Socket.io not initialized');
+  }
+  return io;
+};
+
 export const notifyKitchen = (order) => {
-  io.emit('newOrder', {
-    orderId: order._id,
+  const io = getIO();
+  io.to('kitchen').emit('new_order', {
+    id: order._id,
     items: order.items,
     status: order.status,
-    timestamp: new Date(),
-    priority: order.priority || 'normal'
+    createdAt: order.createdAt
   });
 };
 
 export const notifyOrderUpdate = (orderId, status) => {
-  io.emit('orderStatusChanged', {
-    orderId,
+  const io = getIO();
+  io.emit('order_update', {
+    id: orderId,
     status,
     updatedAt: new Date()
   });
