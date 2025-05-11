@@ -37,7 +37,7 @@ initSocket(server);
 
 // Middleware
 app.use(cors({
-  origin: process.env.CLIENT_URL || 'http://localhost:5173',
+  origin: process.env.CLIENT_URL || 'https://cool-frangollo-75be48.netlify.app',
   credentials: true
 }));
 app.use(express.json());
